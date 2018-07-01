@@ -22,6 +22,9 @@ A curated list of awesome Tandy Color Computer software development tools, softw
     * [CoCo SDC](https://goo.gl/bZ9ebS)
     * [LWASM](http://lwtools.projects.l-w.ca/manual/manual.pdf)
 
+* Source Code
+    * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - original source code by author
+
 * Tools
     * [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
     * [LWASM](http://lwtools.projects.l-w.ca/) - Cross-development Assembler
