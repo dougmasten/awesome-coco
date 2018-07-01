@@ -19,3 +19,4 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 
 * Libraries
     * [Docker Development Environment](https://github.com/jamieleecho/coco-dev)
+    * [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
