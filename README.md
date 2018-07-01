@@ -30,6 +30,9 @@ A curated list of awesome Tandy Color Computer software development tools, softw
     * [CoCo SDC](https://goo.gl/bZ9ebS)
     * [LWASM](http://lwtools.projects.l-w.ca/manual/manual.pdf)
 
+* Project Page
+    * [Defender Conversion for the CoCo 3](https://nowhereman999.wordpress.com/2017/12/31/defender-conversion-for-the-coco-3-part-1/)
+
 * Source Code
     * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - original source code by author
     * [Simon Jonassen's Site](http://www.roust-it.dk/coco/)
