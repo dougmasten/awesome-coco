@@ -15,7 +15,7 @@ A curated list of awesome Tandy Color Computer software development tools, softw
     * [Make PMODE 4 CSM Video Files](https://nowhereman999.wordpress.com/2017/07/31/how-to-make-pmode-4-csm-video-files-for-the-coco-trs-80-color-computer/)
 
 * Editor Syntax Highlighting
-    * [Emacs](https://github.com/NF6X/lwasm-mode)
+    * [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
     * [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
     * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
 
