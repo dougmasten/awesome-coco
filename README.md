@@ -8,7 +8,9 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 
 - - -
 ## Hardware Development
+
 * Articles
+    * [CoCoEPROMpak](http://www.nf6x.net/2013/10/cocoeprompak/) - Eagle PCB design files under GPLv3
 
 ## Software Development
 
