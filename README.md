@@ -10,7 +10,7 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 ## Hardware Development
 
 * Articles
-    * [CoCoEPROMpak](http://www.nf6x.net/2013/10/cocoeprompak/) - Eagle PCB design files under GPLv3 [Repo](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak)
+    * [CoCoEPROMpak](http://www.nf6x.net/2013/10/cocoeprompak/) [GitLab](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak) - Eagle PCB design files under GPLv3
 
 ## Software Development
 
