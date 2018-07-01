@@ -32,6 +32,7 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 
 * Project Blogs
     * [Defender Conversion](https://nowhereman999.wordpress.com/2017/12/31/defender-conversion-for-the-coco-3-part-1/) by Glen Hewlett
+    * [GunStar - Game Development](http://www.nickmarentes.com/Gunstar/index.html) by Nickolas Marentes
     * [Pac Man Conversion](https://nowhereman999.wordpress.com/2016/12/29/zilog-z80-to-motorola-6809-transcode-part-001/) by Glen Hewlett
     * [The Making of Fahrfall](http://fahrfall.blogspot.com/) by John Linville
 
