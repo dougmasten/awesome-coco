@@ -12,6 +12,7 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 * Articles
     * [Arcade Machine Conversion Overview](https://nowhereman999.wordpress.com/2018/01/20/arcade-machine-conversion-to-the-coco-overview/)
     * [How to setup and use IRQs](https://nowhereman999.wordpress.com/2017/11/17/how-to-setup-and-use-irqs-on-the-trs-80-color-computer-part-1-what-is-an-irq-and-when-would-i-use-it/)
+    * [Make PMODE 4 CSM Video Files](https://nowhereman999.wordpress.com/2017/07/31/how-to-make-pmode-4-csm-video-files-for-the-coco-trs-80-color-computer/)
 
 * Editor Syntax Highlighting
     * [Emacs](https://github.com/NF6X/lwasm-mode)
