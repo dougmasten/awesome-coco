@@ -1,6 +1,6 @@
 # Awesome Tandy CoCo [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/dougmasten/awesome-coco.svg?branch=master)](https://travis-ci.org/dougmasten/awesome-coco)
 
-A curated list of awesome Tandy Color Computer software development tools, software and resources.
+A curated list of awesome Tandy Color Computer hardware and software development tools, software and resources.
 
 - [Awesome CoCo](#awesome-coco)
     - [Hardware Development](#hardware-development)
