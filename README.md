@@ -22,6 +22,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Games
     * [Bomb Threat](http://rickadams.org/bombthreat/) by Rick Adams
+    * [Forest of Doom](http://fod.gracenote.ca/) by Bruce Moore
 
 * Hardware
     * [Boysontech](https://boysontech.com/marketplace)
