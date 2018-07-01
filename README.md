@@ -17,6 +17,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 ## Merchandise
 
+* Books
+    * [CoCo: The Colorful History of Tandy's Underdog Computer](https://www.amazon.com/CoCo-Colorful-History-Underdog-Computer/dp/1466592478)
+
 ## Software Development
 
 * Articles
