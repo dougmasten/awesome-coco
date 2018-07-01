@@ -22,4 +22,5 @@ A curated list of awesome Tandy Color Computer software development tools, softw
     * [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
 
 * Manuals
+    * [CoCo SDC](https://goo.gl/bZ9ebS)
     * [LWASM](http://lwtools.projects.l-w.ca/manual/manual.pdf)
