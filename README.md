@@ -30,6 +30,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Emulators
     * [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
+    * [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
 
 * Libraries
     * [Docker Development Environment](https://github.com/jamieleecho/coco-dev) by Jamie Cho
