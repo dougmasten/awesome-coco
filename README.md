@@ -33,6 +33,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Switch-a-roo](https://cocomanbiz.wordpress.com/)
     * [The Zippster Zone](https://thezippsterzone.com)
 
+* Other
+    * [CoCo Forever](http://cocoforever.gracenote.ca/) - An Episodic Audio Drama by Bruce Moore
+
 * Software
     * [Edtasm6309](http://aaronwolfe.com/robert.gault/Coco/Sales/Edtasm6309.htm) Major patch to Tandy's Disk EDTASM+
 
