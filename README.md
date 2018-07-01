@@ -10,6 +10,7 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 ## Software Development
 
 * Editor Syntax Highlighting
+    * [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
     * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
 
 * Libraries
