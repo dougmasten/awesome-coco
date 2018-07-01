@@ -33,6 +33,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
 
 * Manuals
+    * [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
     * [CoCo SDC](https://goo.gl/bZ9ebS)
     * [LWASM](http://lwtools.projects.l-w.ca/manual/manual.pdf)
 
@@ -51,6 +52,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Simon Jonassen's Site](http://www.roust-it.dk/coco/)
 
 * Tools
+    * [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language
     * [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
     * [LWASM](http://lwtools.projects.l-w.ca/) - Cross-development Assembler
     * [Toolshed](https://github.com/boisy/toolshed) - Cornucopia of tools and source code
