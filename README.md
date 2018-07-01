@@ -16,3 +16,6 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 
 * Videos
     * [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho at 27th Chicago CoCoFEST
+
+* Libraries
+    * [Docker Development Environment](https://github.com/jamieleecho/coco-dev)
