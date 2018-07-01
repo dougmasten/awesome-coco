@@ -36,6 +36,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
     * [CoCo SDC](https://goo.gl/bZ9ebS)
     * [LWASM](http://lwtools.projects.l-w.ca/manual/manual.pdf)
+    * [ToolShed](http://toolshed.sourceforge.net/ToolShed.html)
 
 * Project Blogs
     * [Defender Conversion](https://nowhereman999.wordpress.com/2017/12/31/defender-conversion-for-the-coco-3-part-1/) by Glen Hewlett
