@@ -9,6 +9,9 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 
 ## Software Development
 
+* Editor Syntax Highlighting
+    * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
+
 * Tools
     * [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
     * [LWASM](http://lwtools.projects.l-w.ca/) - Cross-development Assembler
