@@ -23,7 +23,7 @@ A curated list of awesome Tandy Color Computer software development tools, softw
     * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
 
 * Libraries
-    * [Docker Development Environment](https://github.com/jamieleecho/coco-dev)
+    * [Docker Development Environment](https://github.com/jamieleecho/coco-dev) by Jamie Cho
     * [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
 
 * Manuals
