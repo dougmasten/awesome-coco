@@ -23,8 +23,8 @@ A curated list of awesome Tandy Color Computer hardware and software development
 * Games
     * [Bomb Threat](http://rickadams.org/bombthreat/) by Rick Adams
     * [Forest of Doom](http://fod.gracenote.ca/) by Bruce Moore
-    * [Timberman](http://8bit256.com/dvds/) by Paul Thayer
     * [Pop\*Star Pilot](http://www.nickmarentes.com/ProjectArchive/popstar.html) by Nickolas Marentes
+    * [Timberman](http://8bit256.com/dvds/) by Paul Thayer
 
 * Hardware
     * [Boysontech](https://boysontech.com/marketplace)
