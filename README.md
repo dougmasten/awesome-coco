@@ -4,14 +4,18 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 - [Awesome CoCo](#awesome-coco)
     - [Hardware Development](#hardware-development)
+    - [Merchandise](#merchandise)
     - [Software Development](#software-development)
 
 - - -
+
 ## Hardware Development
 
 * Articles
     * [CoCoEPROMpak](http://www.nf6x.net/2013/10/cocoeprompak/) [GitLab](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak) - Eagle PCB design files under GPLv3
     * [ROM Cartridge Case Models](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
+
+## Merchandise
 
 ## Software Development
 
