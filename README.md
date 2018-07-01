@@ -20,6 +20,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
 * Books
     * [CoCo: The Colorful History of Tandy's Underdog Computer](https://www.amazon.com/CoCo-Colorful-History-Underdog-Computer/dp/1466592478)
 
+* Games
+    * [Bomb Threat](http://rickadams.org/bombthreat/) by Rick Adams
+
 * Hardware
     * [Boysontech](https://boysontech.com/marketplace)
     * [Cloud-9](http://www.cloud9tech.com/)
