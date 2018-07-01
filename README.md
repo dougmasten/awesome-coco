@@ -9,6 +9,9 @@ A curated list of awesome Tandy Color Computer software development tools, softw
 
 ## Software Development
 
+* Articles
+    * [How to setup and use IRQs](https://nowhereman999.wordpress.com/2017/11/17/how-to-setup-and-use-irqs-on-the-trs-80-color-computer-part-1-what-is-an-irq-and-when-would-i-use-it/)
+
 * Editor Syntax Highlighting
     * [Emacs](https://github.com/NF6X/lwasm-mode)
     * [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
