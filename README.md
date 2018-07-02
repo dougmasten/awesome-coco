@@ -15,6 +15,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Glenside "Last" Chicago CoCoFEST!](http://www.glensideccc.com/)
     * [Tandy Assembly](http://www.tandyassembly.com/)
 
+* Email Lists
+    * [CoCoList](https://pairlist5.pair.net/mailman/listinfo/coco) for Color Computer Enthusiasts
+
 * Facebook
     * [TRS-80 Color Computer (CoCo)](https://www.facebook.com/groups/2359462640/)
     * [The CoCo Crew Podcast](https://www.facebook.com/groups/1606095809633762/)
