@@ -11,6 +11,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
 - - -
 ## Community
 
+* Conferences
+    * [Glenside "Last" Chicago CoCoFEST!](http://www.glensideccc.com/)
+
 ## Hardware Development
 
 * Articles
