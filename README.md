@@ -29,6 +29,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [CoCoTalk! Podcast](http://cocotalk.live/)
     * [The CoCo Crew Podcast](http://www.cococrew.org)
 
+* Twitter
+    * [CoCo Talk!](https://twitter.com/CoCoTALKlive)
+
 ## Hardware Development
 
 * Articles
