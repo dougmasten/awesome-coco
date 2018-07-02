@@ -105,7 +105,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [GunStar - Game Development](http://www.nickmarentes.com/Gunstar/index.html) by Nickolas Marentes
     * [Pac Man Conversion](https://nowhereman999.wordpress.com/2016/12/29/zilog-z80-to-motorola-6809-transcode-part-001/) by Glen Hewlett
     * [PopStar Pilot - Game Development](http://www.nickmarentes.com/PopstarPilot/index.html) by Nickolas Marentes
-    * [Sock Master's CoCo Demos](http://users.axess.com/twilight/sock/cocofile/demo.html)
+    * [Sock Master's CoCo Demos](http://users.axess.com/twilight/sock/cocofile/demo.html) by John Kowalski (Sock Master)
     * [The Making of Fahrfall](http://fahrfall.blogspot.com/) by John Linville
 
 * Source Code
