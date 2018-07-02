@@ -1,4 +1,6 @@
-# Awesome Tandy CoCo [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/dougmasten/awesome-coco.svg?branch=master)](https://travis-ci.org/dougmasten/awesome-coco) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+# Awesome Tandy CoCo
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Build Status](https://travis-ci.org/dougmasten/awesome-coco.svg?branch=master)](https://travis-ci.org/dougmasten/awesome-coco)
 
 A curated list of awesome Tandy Color Computer hardware and software development tools, software and resources.
 
