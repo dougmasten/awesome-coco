@@ -42,6 +42,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [CoCoEPROMpak](http://www.nf6x.net/2013/10/cocoeprompak/) [GitLab](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak) - Eagle PCB design files under GPLv3
     * [ROM Cartridge Case Models](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
 
+* Videos
+    * [CPU Upgrade](https://youtu.be/yDq0_MCY87o) - Replacing a Motorola 6809 with a Hitachi 6309
+
 ## Merchandise
 
 * Books
