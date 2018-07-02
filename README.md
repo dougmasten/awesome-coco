@@ -58,7 +58,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Cloud-9](http://www.cloud9tech.com/)
     * [CoCo Store](https://www.colorcomputerstore.com)
     * [Retro Swag!](http://8bit256.com)
-    * [Switch-a-roo](https://cocomanbiz.wordpress.com/)
+    * [CocoMan](http://coco3scartcable.com) - sales Switch-a-roo a RGB to SCART solution
     * [The Zippster Zone](https://thezippsterzone.com)
 
 * Other
