@@ -57,7 +57,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Timberman](http://8bit256.com/dvds/) by Paul Thayer
 
 * Hardware
-    * [Boysontech](https://boysontech.com/marketplace)
+    * [Boysontech](https://boysontech.com/marketplace) - Richard Lorbieski
     * [Cloud-9](http://www.cloud9tech.com/)
     * [CoCo Store](https://www.colorcomputerstore.com)
     * [CocoMan](http://coco3scartcable.com) - sales Switch-a-roo a RGB to SCART solution
