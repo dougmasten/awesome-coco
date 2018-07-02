@@ -119,4 +119,4 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Toolshed](https://github.com/boisy/toolshed) - Cornucopia of tools and source code
 
 * Videos
-    * [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho at 27th Chicago CoCoFEST
+    * [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho
