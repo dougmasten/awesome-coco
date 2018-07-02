@@ -59,7 +59,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [CoCo Store](https://www.colorcomputerstore.com)
     * [Retro Swag!](http://8bit256.com) - custom designed retro merchandise and DVDs
     * [CocoMan](http://coco3scartcable.com) - sales Switch-a-roo a RGB to SCART solution
-    * [The Zippster Zone](https://thezippsterzone.com)
+    * [The Zippster Zone](https://thezippsterzone.com) - sales CoCo SDC, etc
 
 * Other
     * [CoCo Forever](http://cocoforever.gracenote.ca/) - An Episodic Audio Drama by Bruce Moore
