@@ -124,3 +124,4 @@ A curated list of awesome Tandy Color Computer hardware and software development
 * Videos
     * [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho
     * [Programming in BASIC Series](https://www.youtube.com/watch?v=bidwWkEkuSI&list=PLpy5fe6Zd8ccUvxkGHgvLGo70jScz-7wT) - presented by Steve Strow
+    * [Video Game Development](https://youtu.be/6wCLunU_dno) - presented by John Strong
