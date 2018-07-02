@@ -3,11 +3,13 @@
 A curated list of awesome Tandy Color Computer hardware and software development tools, software and resources.
 
 - [Awesome CoCo](#awesome-coco)
+    - [Community](#community)
     - [Hardware Development](#hardware-development)
     - [Merchandise](#merchandise)
     - [Software Development](#software-development)
 
 - - -
+## Community
 
 ## Hardware Development
 
