@@ -26,6 +26,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [TRS-80 CoCo TALK](https://discordapp.com/invite/4J5nHXm)
 
 * Podcasts
+    * [CoCoTalk! Podcast](http://cocotalk.live/)
     * [The CoCo Crew Podcast](http://www.cococrew.org)
 
 ## Hardware Development
