@@ -17,6 +17,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Facebook
     * [TRS-80 Color Computer (CoCo)](https://www.facebook.com/groups/2359462640/)
+    * [The CoCo Crew Podcast](https://www.facebook.com/groups/1606095809633762/)
 
 ## Hardware Development
 
