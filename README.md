@@ -61,6 +61,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Cloud-9](http://www.cloud9tech.com/)
     * [CoCo Store](https://www.colorcomputerstore.com)
     * [CocoMan](http://coco3scartcable.com) - sales Switch-a-roo a RGB to SCART solution
+    * [RETRO Innovations](http://store.go4retro.com/coco) - Jim Brain
     * [Retro Swag!](http://8bit256.com) - custom designed retro merchandise and DVDs
     * [The Zippster Zone](https://thezippsterzone.com) - sales CoCo SDC, etc
 
