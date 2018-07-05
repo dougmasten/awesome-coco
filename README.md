@@ -67,6 +67,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Other
     * [CoCo Forever](http://cocoforever.gracenote.ca/) - An Episodic Audio Drama by Bruce Moore
+    * [CoCoWares](http://cocowares.com/) - place to find all hardware, software and services currently available
 
 * Software
     * [Edtasm6309](http://aaronwolfe.com/robert.gault/Coco/Sales/Edtasm6309.htm) Major patch to Tandy's Disk EDTASM+
