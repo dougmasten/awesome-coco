@@ -11,7 +11,7 @@ sort:
 	@python sort.py
 
 test:
-	@awesome_bot README.md --skip-save-results --allow-dupe --allow-redirect --set-timeout 5
+	@awesome_bot README.md --skip-save-results --allow-dupe --allow-redirect
 
 publish:
 	@git push origin master
