@@ -120,6 +120,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Sock Master's CoCo Demos](http://users.axess.com/twilight/sock/cocofile/demo.html) by John Kowalski (Sock Master)
     * [The Making of Fahrfall](http://fahrfall.blogspot.com/) by John Linville
 
+* Reference
+    * [CoCo 3's Standard Color Palette](http://fd501.com/home/blog/coco-color-palette/)
+
 * Source Code
     * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - original source code by author
     * [Simon Jonassen's Site](http://www.roust-it.dk/coco/)
