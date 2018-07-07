@@ -6,6 +6,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     - [Community](#community)
     - [Hardware Development](#hardware-development)
     - [Merchandise](#merchandise)
+    - [OS-9](#os-9)
     - [Software Development](#software-development)
 
 - - -
@@ -71,6 +72,12 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Software
     * [Edtasm6309](http://aaronwolfe.com/robert.gault/Coco/Sales/Edtasm6309.htm) Major patch to Tandy's Disk EDTASM+
+
+## OS-9
+
+* [NitrOS-9 Project](http://www.nitros9.org/battle.html) - OS-9/6809 compatible operating system
+* [NitrOS-9 Repository](https://github.com/boisy/nitros9) GitHub
+* [NitrOS-9 Wiki](https://nitros9.sourceforge.io/wiki/index.php/Main_Page)
 
 ## Software Development
 
