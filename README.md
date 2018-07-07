@@ -19,8 +19,8 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [CoCoList](https://pairlist5.pair.net/mailman/listinfo/coco) for Color Computer Enthusiasts
 
 * Facebook
-    * [The CoCo Crew Podcast](https://www.facebook.com/groups/1606095809633762/)
     * [TRS-80 Color Computer (CoCo)](https://www.facebook.com/groups/2359462640/)
+    * [The CoCo Crew Podcast](https://www.facebook.com/groups/1606095809633762/)
 
 * Discord
     * [TRS-80 CoCo TALK](https://discordapp.com/invite/4J5nHXm)
@@ -119,9 +119,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Tools
     * [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language
-    * [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
     * [LWASM](http://lwtools.projects.l-w.ca/) - Cross-development Assembler
     * [Toolshed](https://github.com/boisy/toolshed) - Cornucopia of tools and source code
+    * [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
 
 * Videos
     * [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho
