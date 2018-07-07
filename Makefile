@@ -8,7 +8,9 @@ help:
 	@echo '  make publish  - publish to github repo'
 
 sort:
-	@python sort.py
+# pip install slmd
+	@slmd README.md README.md.1
+	@mv README.md.1 README.md
 
 test:
 	@awesome_bot README.md --skip-save-results --allow-dupe --allow-redirect
