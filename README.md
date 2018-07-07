@@ -5,6 +5,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 - [Awesome CoCo](#awesome-coco)
     - [Community](#community)
     - [Hardware Development](#hardware-development)
+    - [Lists](#lists)
     - [Merchandise](#merchandise)
     - [OS-9](#os-9)
     - [Software Development](#software-development)
@@ -45,6 +46,10 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Videos
     * [CPU Upgrade](https://youtu.be/yDq0_MCY87o) - Replacing a Motorola 6809 with a Hitachi 6309
+
+## Lists
+
+* [Tandy Color Computer Games](http://www.lcurtisboyle.com/nitros9/coco_game_list.html)
 
 ## Merchandise
 
