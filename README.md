@@ -47,6 +47,10 @@ A curated list of awesome Tandy Color Computer hardware and software development
 * Videos
     * [CPU Upgrade](https://youtu.be/yDq0_MCY87o) - Replacing a Motorola 6809 with a Hitachi 6309
 
+* 3D Print Models
+    * [CoCo Cartridge Shell for NF6X PCBs](https://www.thingiverse.com/thing:2536842)
+    * [TRS-80/Tandy Color Computer Raspberry Pi (B+, 2B, 3B) Case](https://www.thingiverse.com/thing:1584811)
+
 ## Lists
 
 * [Modern ports of CoCo Games](http://subethasoftware.com/2014/02/21/modern-ports-of-coco-games/)
