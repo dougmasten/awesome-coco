@@ -71,6 +71,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Boysontech](https://boysontech.com/marketplace) - Richard Lorbieski
     * [Cloud-9](http://www.cloud9tech.com/)
     * [CoCo Store](https://www.colorcomputerstore.com)
+    * [CoCoVGA](http://cocovga.com/) - Produce VGA Output from CoCo 1 and 2 and Dragon systems
     * [CocoMan](http://coco3scartcable.com) - sales Switch-a-roo a RGB to SCART solution
     * [RETRO Innovations](http://store.go4retro.com/coco) - Jim Brain
     * [Retro Swag!](http://8bit256.com) - official Retro Swag shop of I'm a CoCo Nuts
