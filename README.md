@@ -138,6 +138,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Reference
     * [CoCo 3's Standard Color Palette](http://fd501.com/home/blog/coco-color-palette/)
+    * [CoCo SDC Cheat Sheet](https://www.dropbox.com/s/rynovisntnylnit/cocosdccheat.pdf?dl=0)
 
 * Source Code
     * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - original source code by author
