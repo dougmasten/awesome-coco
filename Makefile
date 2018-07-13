@@ -9,7 +9,7 @@ help:
 
 sort:
 # pip install slmd
-	@slmd README.md README.md.1
+	@slmd README.md README.md.1 || [ $$? -eq 1 ]
 	@mv README.md.1 README.md
 
 test:
