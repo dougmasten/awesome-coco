@@ -49,9 +49,9 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * 3D Print Models
     * [CoCo Cartridge Shell for NF6X PCBs](https://www.thingiverse.com/thing:2536842)
-    * [TRS-80/Tandy Color Computer Raspberry Pi (B+, 2B, 3B) Case](https://www.thingiverse.com/thing:1584811)
-    * [CoCo SDC Case](https://www.thingiverse.com/thing:1592139)
     * [CoCo Pi](https://www.thingiverse.com/thing:2247877)
+    * [CoCo SDC Case](https://www.thingiverse.com/thing:1592139)
+    * [TRS-80/Tandy Color Computer Raspberry Pi (B+, 2B, 3B) Case](https://www.thingiverse.com/thing:1584811)
 
 * Software Code
     * [CoCo3 RAM Stress Tester](https://github.com/richard42/cocostress)
