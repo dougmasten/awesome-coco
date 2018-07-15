@@ -126,6 +126,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [ToolShed](http://toolshed.sourceforge.net/ToolShed.html)
 
 * Project Blogs
+    * [Cosmic Aliens Development Blogs](http://cosmicaliens.com/development-blog/) by Steve Strowbridge
     * [Defender Conversion](https://nowhereman999.wordpress.com/2017/12/31/defender-conversion-for-the-coco-3-part-1/) by Glen Hewlett
     * [Donkey Kong Emulator](http://users.axess.com/twilight/sock/dk/index.html) by John Kowalski (Sock Master)
     * [Donkey Kong Remixed](http://users.axess.com/twilight/sock/dkremix/index.html) by John Kowalski (Sock Master)
