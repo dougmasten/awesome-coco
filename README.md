@@ -144,6 +144,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 * Reference
     * [CoCo 3's Standard Color Palette](http://fd501.com/home/blog/coco-color-palette/)
     * [CoCo SDC Cheat Sheet](https://www.dropbox.com/s/rynovisntnylnit/cocosdccheat.pdf?dl=0)
+    * [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://thezippsterzone.com/wp-content/uploads/2018/06/6x09_Instruction_Sets.pdf) by Darren Atkinson
     * [Stack Exchange Q&A](https://retrocomputing.stackexchange.com/questions/tagged/color-computer)
 
 * Source Code
