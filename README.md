@@ -43,6 +43,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 * Articles
     * [CoCoEPROMpak](http://www.nf6x.net/2013/10/cocoeprompak/) [GitLab](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak) - Eagle PCB design files under GPLv3
     * [ROM Cartridge Case Models](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
+    * [WiFi CoCo for $15](https://subethasoftware.com/2018/02/01/wifi-coco-for-15-or-for-any-retro-computer-with-an-rs-232-port/)
 
 * Videos
     * [CPU Upgrade](https://youtu.be/yDq0_MCY87o) - Replacing a Motorola 6809 with a Hitachi 6309
