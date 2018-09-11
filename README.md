@@ -114,6 +114,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Optimizing 6809 Assembly Code](https://nowhereman999.wordpress.com/2017/09/14/optimizing-6809-assembly-code-part-1-quick-and-easy-changes-to-speedup-your-code/) by Glen Hewlett
 
 * Editor Syntax Highlighting
+    * [Atom](https://atom.io/packages/language-6809)
     * [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
     * [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
     * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
