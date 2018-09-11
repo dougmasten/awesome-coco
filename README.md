@@ -46,6 +46,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [CoCoEPROMpak](http://www.nf6x.net/2013/10/cocoeprompak/) [GitLab](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak) - Eagle PCB design files under GPLv3
     * [MEGA-mini MPI](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
     * [ROM Cartridge Case Models](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
+    * [Ultim809: Homebrew 8-bit Computer](http://www.msarnoff.org/6809/)
     * [WiFi CoCo for $15](https://subethasoftware.com/2018/02/01/wifi-coco-for-15-or-for-any-retro-computer-with-an-rs-232-port/)
 
 * Videos
