@@ -42,6 +42,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 ## Hardware Development
 
 * Articles
+    * [A node.js-powered 8-bit CPU](https://www.perkin.org.uk/posts/a-nodejs-powered-8-bit-cpu-part-one.html)
     * [CoCo 3 Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf) by Ty Sopko
     * [CoCoEPROMpak](http://www.nf6x.net/2013/10/cocoeprompak/) [GitLab](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak) - Eagle PCB design files under GPLv3
     * [MEGA-mini MPI](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
