@@ -117,7 +117,8 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Atom](https://atom.io/packages/language-6809)
     * [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
     * [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
-    * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
+    * [Visual Studio - Assembly](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
+    * [Visual Studio - Color Basic](https://marketplace.visualstudio.com/items?itemName=Tandy.color-basic)
 
 * Emulators
     * [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
