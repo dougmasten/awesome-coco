@@ -121,6 +121,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
         * [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
         * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
     * Color Basic
+        * [Notepad++](https://gist.github.com/pfiscarelli/4fd32f282c23272c2bd231f0b9d1062a)
         * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.color-basic)
 
 * Emulators
