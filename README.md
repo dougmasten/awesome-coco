@@ -118,6 +118,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
         * [Atom](https://atom.io/packages/language-6809)
         * [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
         * [Notepad++](https://gist.github.com/pfiscarelli/4013e3fd743c41ffa788328fbbb4bfd9)
+        * [Sublime Text](https://github.com/dougmasten/sublime-assembly-6809)
         * [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
         * [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
     * Color Basic
