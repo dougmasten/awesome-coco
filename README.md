@@ -158,8 +158,8 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [Stack Exchange Q&A](https://retrocomputing.stackexchange.com/questions/tagged/color-computer)
 
 * Source Code
-    * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - original source code by author
-    * [Simon Jonassen's Site](http://www.roust-it.dk/coco/)
+    * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - by Erik Gavriluk and Greg Miller
+    * [Zenix and Crystal City](https://github.com/gosub-com/Coco) - by Jeremy Spiller
 
 * Tools
     * [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language
