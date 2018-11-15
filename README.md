@@ -166,6 +166,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
     * [LWASM](http://lwtools.projects.l-w.ca/) - Cross-development Assembler
     * [Toolshed](https://github.com/boisy/toolshed) - Cornucopia of tools and source code
     * [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
+    * [sgeditremix](https://github.com/daftspaniel/sgeditremix) - Web based low-resolution screen designer
 
 * Videos
     * [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho
