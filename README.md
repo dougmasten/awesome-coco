@@ -159,6 +159,7 @@ A curated list of awesome Tandy Color Computer hardware and software development
 
 * Source Code
     * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - by Erik Gavriluk and Greg Miller
+    * [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - by Paul Thayer
     * [Zenix and Crystal City](https://github.com/gosub-com/Coco) - by Jeremy Spiller
 
 * Tools
