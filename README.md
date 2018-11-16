@@ -37,6 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Documentation
 
+- [CoCo 1/2/3 Hardware Programming](http://www.lomont.org/Software/Misc/CoCo/Lomont_CoCoHardware.pdf)
 - [CoCo 3 Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
 - [CoCo 3 Service Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
 - [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://thezippsterzone.com/wp-content/uploads/2018/06/6x09_Instruction_Sets.pdf) by Darren Atkinson
@@ -55,7 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Tools
 
-- [CoCo3 RAM Stress Tester](https://github.com/richard42/cocostress)
+- [CoCo 3 RAM Stress Tester](https://github.com/richard42/cocostress)
 - [Toolshed](https://github.com/boisy/toolshed) - Cross-development disk images tools [Documentation](http://toolshed.sourceforge.net/ToolShed.html)
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
 - [sgeditremix](https://github.com/daftspaniel/sgeditremix) - Web based low-res screen designer
