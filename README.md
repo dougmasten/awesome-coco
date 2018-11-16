@@ -7,8 +7,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Community](#community)
 - [Documentation](#documentation)
-- [Project Blogs](#project-blogs)
 - [Programming](#programming)
+- [Project Blogs](#project-blogs)
 - [Software Developmnt](#software-development)
 
 ## Community
@@ -43,8 +43,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Assemblers and Compilers
 
-- [LWTOOLS](http://lwtools.projects.l-w.ca/) - Cross-development Assembler [Documentation](http://lwtools.projects.l-w.ca/manual/manual.pdf)
 - [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
+- [LWTOOLS](http://lwtools.projects.l-w.ca/) - Cross-development Assembler [Documentation](http://lwtools.projects.l-w.ca/manual/manual.pdf)
 
 ### Emulators
 
@@ -53,8 +53,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Tools
 
-- [Toolshed](https://github.com/boisy/toolshed) - Cross-development disk images tools [http://toolshed.sourceforge.net/ToolShed.html]
 - [CoCo3 RAM Stress Tester](https://github.com/richard42/cocostress)
+- [Toolshed](https://github.com/boisy/toolshed) - Cross-development disk images tools [http://toolshed.sourceforge.net/ToolShed.html]
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
 - [sgeditremix](https://github.com/daftspaniel/sgeditremix) - Web based low-resolution screen designer
 
