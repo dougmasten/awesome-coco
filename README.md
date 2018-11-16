@@ -54,7 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Tools
 
 - [CoCo3 RAM Stress Tester](https://github.com/richard42/cocostress)
-- [Toolshed](https://github.com/boisy/toolshed) - Cross-development disk images tools [http://toolshed.sourceforge.net/ToolShed.html]
+- [Toolshed](https://github.com/boisy/toolshed) - Cross-development disk images tools [Documentation](http://toolshed.sourceforge.net/ToolShed.html)
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
 - [sgeditremix](https://github.com/daftspaniel/sgeditremix) - Web based low-resolution screen designer
 
