@@ -37,8 +37,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Documentation
 
-- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://thezippsterzone.com/wp-content/uploads/2018/06/6x09_Instruction_Sets.pdf) by Darren Atkinson
+- [CoCo 3 Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
 - [CoCo 3 Service Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
+- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://thezippsterzone.com/wp-content/uploads/2018/06/6x09_Instruction_Sets.pdf) by Darren Atkinson
 
 ## Software Development
 
