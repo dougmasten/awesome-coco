@@ -1,4 +1,4 @@
-# Awesome Tandy CoCo Development[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/dougmasten/awesome-coco.svg?branch=master)](https://travis-ci.org/dougmasten/awesome-coco)
+# Awesome Tandy CoCo Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/dougmasten/awesome-coco.svg?branch=master)](https://travis-ci.org/dougmasten/awesome-coco)
 
 A curated list of awesome Tandy Color Computer development resources, tools, docs and related projects.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
@@ -56,7 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CoCo3 RAM Stress Tester](https://github.com/richard42/cocostress)
 - [Toolshed](https://github.com/boisy/toolshed) - Cross-development disk images tools [Documentation](http://toolshed.sourceforge.net/ToolShed.html)
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
-- [sgeditremix](https://github.com/daftspaniel/sgeditremix) - Web based low-resolution screen designer
+- [sgeditremix](https://github.com/daftspaniel/sgeditremix) - Web based low-res screen designer
 
 ### Libraries
 
