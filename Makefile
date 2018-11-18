@@ -13,7 +13,7 @@ sort:
 	@mv README.md.1 README.md
 
 test:
-	@awesome_bot README.md --skip-save-results --allow-redirect
+	@awesome_bot README.md --skip-save-results --allow-dupe --allow-redirect
 
 publish:
 	@git push origin master
