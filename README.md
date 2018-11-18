@@ -52,8 +52,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Project Files](https://goo.gl/FZMbY3)
 - [Seller's Website](https://thezippsterzone.com/2018/05/08/coco-sdc/)
 
+### Memory Upgrades
+- [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
+- [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
+
 ### Other
-- [Boomerang 2 Meg RAM Upgrade](https://boysontech.com/marketplace/)
+
 - [Hitachi 6309 CPU Upgrade Professional Install Service](https://boysontech.com/marketplace/)
 - [Paragon Joystick Adapter](https://boysontech.com/marketplace/) - Converter for classic (DB9 connector) Atair 2600, Sega Genesis and Wico joysticks
 - [Switch-a-roo](https://cocomanbiz.wordpress.com/) - RGB to SCART cable (Modern display solution)
