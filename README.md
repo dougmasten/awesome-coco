@@ -49,7 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Developer's Blog](http://cocosdc.blogspot.com/)
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
-- [Product Manufactor](https://thezippsterzone.com/2018/05/08/coco-sdc/) - for sale by Ed Snider
+- [Product Manufacture](https://thezippsterzone.com/2018/05/08/coco-sdc/) - for sale by Ed Snider
 - [Project Files](https://goo.gl/FZMbY3)
 
 ### Other
