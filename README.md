@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Community](#community)
 - [Documentation](#documentation)
+- [Hardware](#hardware)
 - [Programming](#programming)
 - [Project Blogs](#project-blogs)
 - [Software Developmnt](#software-development)
@@ -18,6 +19,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Glenside "Last" Chicago CoCoFEST!](http://www.glensideccc.com/)
 - [Tandy Assembly](http://www.tandyassembly.com/)
 
+### Discord
+
+- [TRS-80 CoCo TALK](https://discordapp.com/invite/4J5nHXm)
+
 ### Email Lists
 
 - [CoCoList](https://pairlist5.pair.net/mailman/listinfo/coco) for Color Computer Enthusiasts
@@ -26,10 +31,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [TRS-80 Color Computer (CoCo)](https://www.facebook.com/groups/2359462640/)
 
-### Discord
-
-- [TRS-80 CoCo TALK](https://discordapp.com/invite/4J5nHXm)
-
 ### Podcasts
 
 - [CoCoTalk! Podcast](http://cocotalk.live/)
@@ -37,10 +38,51 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Documentation
 
-- [CoCo 1/2/3 Hardware Programming](http://www.lomont.org/Software/Misc/CoCo/Lomont_CoCoHardware.pdf)
+- [CoCo 3 Hardware Programming](http://www.lomont.org/Software/Misc/CoCo/Lomont_CoCoHardware.pdf)
 - [CoCo 3 Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
 - [CoCo 3 Service Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
-- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://thezippsterzone.com/wp-content/uploads/2018/06/6x09_Instruction_Sets.pdf) by Darren Atkinson
+- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://thezippsterzone.com/wp-content/uploads/2018/06/6x09_Instruction_Sets.pdf)
+
+## Hardware
+
+### CoCo SDC - Floppy Disk Emulator using SD cards
+- [Developer's Blog](http://cocosdc.blogspot.com/)
+- [Documentation](https://goo.gl/bZ9ebS)
+- [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
+- [Product Manufactor](https://thezippsterzone.com/2018/05/08/coco-sdc/) - for sale by Ed Snider
+- [Project Files](https://goo.gl/FZMbY3)
+
+### Other
+- [Boomerang 2 Meg RAM Upgrade](https://boysontech.com/marketplace/)
+- [Hitachi 6309 CPU Upgrade Professional Install Service](https://boysontech.com/marketplace/)
+- [Paragon Joystick Adapter](https://boysontech.com/marketplace/) - Converter for classic (DB9 connector) Atair 2600, Sega Genesis and Wico joysticks
+- [Switch-a-roo](https://cocomanbiz.wordpress.com/) - RGB to SCART cable (Modern display solution)
+
+## Programming
+
+### Articles
+
+- [Arcade Machine Conversion Overview](https://nowhereman999.wordpress.com/2018/01/20/arcade-machine-conversion-to-the-coco-overview/) by Glen Hewlett
+- [Assembly on a modern computer](https://nowhereman999.wordpress.com/2017/06/19/coco-6809-assembly-on-a-modern-computer/) by Glen Hewlett
+- [CoCo Cross Development](https://www.vintageisthenewold.com/coco-cross-development-part-1/) by Allen Huffman
+- [CoCo Loaders](http://lost.l-w.ca/0x05/wp-content/uploads/2010/02/Coco-Loaders.pdf) by William Astle
+- [Compile C programs using MacOS or Linux](https://nowhereman999.wordpress.com/2016/11/08/compiling-c-programs-for-the-old-radio-shack-trs-80-color-computer-running-under-rsdos-using-macos-or-linux/) by Glen Hewlett
+- [How to setup and use IRQs](https://nowhereman999.wordpress.com/2017/11/17/how-to-setup-and-use-irqs-on-the-trs-80-color-computer-part-1-what-is-an-irq-and-when-would-i-use-it/) by Glen Hewlett
+- [Make PMODE 4 CSM Video Files](https://nowhereman999.wordpress.com/2017/07/31/how-to-make-pmode-4-csm-video-files-for-the-coco-trs-80-color-computer/) by Glen Hewlett
+- [Optimizing 6809 Assembly Code](https://nowhereman999.wordpress.com/2017/09/14/optimizing-6809-assembly-code-part-1-quick-and-easy-changes-to-speedup-your-code/) by Glen Hewlett
+
+### Source Code
+
+- [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - by Erik Gavriluk and Greg Miller
+- [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - by Paul Thayer
+- [Zenix and Crystal City](https://github.com/gosub-com/Coco) - by Jeremy Spiller
+
+### Videos
+
+- [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho
+- [Programming in BASIC Series](https://www.youtube.com/watch?v=bidwWkEkuSI&list=PLpy5fe6Zd8ccUvxkGHgvLGo70jScz-7wT) - presented by Steve Strow
+- [Setting up Assembly Development Environment](https://youtu.be/_HlUVvypbi4) - presented by Paul Fiscarelli
+- [Video Game Development](https://youtu.be/6wCLunU_dno) - presented by John Strong
 
 ## Software Development
 
@@ -94,30 +136,3 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PopStar Pilot - Game Development](http://www.nickmarentes.com/PopstarPilot/index.html) by Nickolas Marentes
 - [Sock Master's CoCo Demos](http://users.axess.com/twilight/sock/cocofile/demo.html) by John Kowalski (Sock Master)
 - [The Making of Fahrfall](http://fahrfall.blogspot.com/) by John Linville
-
-## Programming
-
-### Articles
-
-- [Arcade Machine Conversion Overview](https://nowhereman999.wordpress.com/2018/01/20/arcade-machine-conversion-to-the-coco-overview/) by Glen Hewlett
-- [Assembly on a modern computer](https://nowhereman999.wordpress.com/2017/06/19/coco-6809-assembly-on-a-modern-computer/) by Glen Hewlett
-- [CoCo Cross Development](https://www.vintageisthenewold.com/coco-cross-development-part-1/) by Allen Huffman
-- [CoCo Loaders](http://lost.l-w.ca/0x05/wp-content/uploads/2010/02/Coco-Loaders.pdf) by William Astle
-- [Compile C programs using MacOS or Linux](https://nowhereman999.wordpress.com/2016/11/08/compiling-c-programs-for-the-old-radio-shack-trs-80-color-computer-running-under-rsdos-using-macos-or-linux/) by Glen Hewlett
-- [How to setup and use IRQs](https://nowhereman999.wordpress.com/2017/11/17/how-to-setup-and-use-irqs-on-the-trs-80-color-computer-part-1-what-is-an-irq-and-when-would-i-use-it/) by Glen Hewlett
-- [Make PMODE 4 CSM Video Files](https://nowhereman999.wordpress.com/2017/07/31/how-to-make-pmode-4-csm-video-files-for-the-coco-trs-80-color-computer/) by Glen Hewlett
-- [Optimizing 6809 Assembly Code](https://nowhereman999.wordpress.com/2017/09/14/optimizing-6809-assembly-code-part-1-quick-and-easy-changes-to-speedup-your-code/) by Glen Hewlett
-
-### Source Code
-
-- [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - by Erik Gavriluk and Greg Miller
-- [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - by Paul Thayer
-- [Zenix and Crystal City](https://github.com/gosub-com/Coco) - by Jeremy Spiller
-
-
-### Videos
-
-- [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho
-- [Programming in BASIC Series](https://www.youtube.com/watch?v=bidwWkEkuSI&list=PLpy5fe6Zd8ccUvxkGHgvLGo70jScz-7wT) - presented by Steve Strow
-- [Setting up Assembly Development Environment](https://youtu.be/_HlUVvypbi4) - presented by Paul Fiscarelli
-- [Video Game Development](https://youtu.be/6wCLunU_dno) - presented by John Strong
