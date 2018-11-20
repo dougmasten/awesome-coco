@@ -56,6 +56,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
 - [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
 
+### GMC - Game Master Cartridge
+- [Detect GMC](http://www.6809.org.uk/tmp/testgmc/)
+
 ### Other
 
 - [Hitachi 6309 CPU Upgrade Professional Install Service](https://boysontech.com/marketplace/)
