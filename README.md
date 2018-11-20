@@ -57,7 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
 
 ### GMC - Game Master Cartridge
-- [Detect GMC](http://www.6809.org.uk/tmp/testgmc/)
+- [Detect GMC Source Code](http://www.6809.org.uk/tmp/testgmc/)
 
 ### Other
 
