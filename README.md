@@ -45,7 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Hardware
 
-### CoCo SDC - Floppy Disk Emulator using SD cards
+### SDC - Floppy Disk Emulator using SD cards
 - [Developer's Blog](http://cocosdc.blogspot.com/)
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
