@@ -45,32 +45,35 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Hardware
 
-### SDC - Floppy Disk Emulator (SD Card)
-- [Developer's Blog](http://cocosdc.blogspot.com/)
-- [Documentation](https://goo.gl/bZ9ebS)
-- [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
-- [Project Files](https://goo.gl/FZMbY3)
-- [Seller's Website](https://thezippsterzone.com/2018/05/08/coco-sdc/)
-
-### Memory Upgrades
-- [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
-- [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
-
 ### GMC - Game Master Cartridge (TI SN76489A Sound Chip)
+
 - [Article](https://www.vintageisthenewold.com/game-master-cartridge-enables-better-games-for-coco/)
 - [Demo Program](https://drive.google.com/file/d/1nJHDK1-_18M0ht6VB5JNOGE1ze6J8Lp2/view)
 - [Detect GMC Source Code](http://www.6809.org.uk/tmp/testgmc/)
 - [Tool Program](https://drive.google.com/file/d/1LpS0YEg0PChBnlnu2YxNZocb0eEd3xlm/view)
 
-### PSG - Programmer Sound Generator (YM2149 Sound Chip)
-- [Manual](https://thezippsterzone.com/wp-content/uploads/2018/05/coco-psg-users-manual.pdf)
-- [Project Site](https://thezippsterzone.com/2018/05/08/coco-psg/)
+### Memory Upgrades
+- [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
+- [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
 
 ### Other
 
 - [Hitachi 6309 CPU Upgrade Professional Install Service](https://boysontech.com/marketplace/)
 - [Paragon Joystick Adapter](https://boysontech.com/marketplace/) - Converter for classic (DB9 connector) Atair 2600, Sega Genesis and Wico joysticks
 - [Switch-a-roo](https://cocomanbiz.wordpress.com/) - RGB to SCART cable (Modern display solution)
+
+### PSG - Programmer Sound Generator (YM2149 Sound Chip)
+
+- [Manual](https://thezippsterzone.com/wp-content/uploads/2018/05/coco-psg-users-manual.pdf)
+- [Project Site](https://thezippsterzone.com/2018/05/08/coco-psg/)
+
+### SDC - Floppy Disk Emulator (SD Card)
+
+- [Developer's Blog](http://cocosdc.blogspot.com/)
+- [Documentation](https://goo.gl/bZ9ebS)
+- [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
+- [Project Files](https://goo.gl/FZMbY3)
+- [Seller's Website](https://thezippsterzone.com/2018/05/08/coco-sdc/)
 
 ## Programming
 
