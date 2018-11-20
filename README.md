@@ -133,7 +133,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Project Blogs
 
-- [CoCo SDC Media Player](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/) by Ed Snider
 - [Cosmic Aliens Development Blogs](http://cosmicaliens.com/development-blog/) by Steve Strowbridge
 - [Defender Conversion](https://nowhereman999.wordpress.com/2017/12/31/defender-conversion-for-the-coco-3-part-1/) by Glen Hewlett
 - [Donkey Kong Emulator](http://users.axess.com/twilight/sock/dk/index.html) and [Remixed](http://users.axess.com/twilight/sock/dkremix/index.html) by John Kowalski (Sock Master)
