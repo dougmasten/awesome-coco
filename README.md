@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Email Lists
 
-- [CoCoList](https://pairlist5.pair.net/mailman/listinfo/coco) for Color Computer Enthusiasts
+- [CoCoList](https://pairlist5.pair.net/mailman/listinfo/coco)
 
 ### Facebook
 
@@ -53,7 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Hardware
 
-### GMC - Game Master Cartridge (TI SN76489A Sound Chip)
+### GMC - Game Master Cartridge (SN76489A Sound Chip)
 
 - [Article](https://www.vintageisthenewold.com/game-master-cartridge-enables-better-games-for-coco/)
 - [Demo Program](https://drive.google.com/file/d/1nJHDK1-_18M0ht6VB5JNOGE1ze6J8Lp2/view)
