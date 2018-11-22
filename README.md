@@ -43,6 +43,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CoCo 3 Service Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
 - [Motorola 6809 and Hitachi 6309 Programmer's Reference](http://www.coco3.com/community/wp-content/uploads/2010/03/6x09_Instruction_Sets.pdf)
 
+### Unravelled Series - Commented source listing of system ROMs
+
+- [Color Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/color-basic-unravelled.pdf)
+- [Disk Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/disk-basic-unravelled.pdf)
+- [Extended Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/extended-basic-unravelled.pdf)
+- [Super Extended Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/super-extended-basic-unravelled.pdf)
+
+
 ## Hardware
 
 ### GMC - Game Master Cartridge (TI SN76489A Sound Chip)
