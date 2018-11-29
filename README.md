@@ -64,6 +64,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
 - [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
 
+### MPI - Multipak Interface
+
+- [MEGA-mini MPI by Zippster (4-port)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
+- [mini-MPI by Zippster (2-port)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
+
 ### Other
 
 - [Hitachi 6309 CPU Upgrade Professional Install Service](https://boysontech.com/marketplace/)
@@ -82,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
 - [Project Files](https://goo.gl/FZMbY3)
+
 
 ## Programming
 
