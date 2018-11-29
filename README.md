@@ -78,10 +78,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### SDC - Floppy Disk Emulator (SD Card)
 
 - [Developer's Blog](http://cocosdc.blogspot.com/)
+- [Distributor/Manufacturer - Zippster "Ed Snider"](https://thezippsterzone.com/2018/05/08/coco-sdc/)
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
 - [Project Files](https://goo.gl/FZMbY3)
-- [Seller's Website](https://thezippsterzone.com/2018/05/08/coco-sdc/)
 
 ## Programming
 
