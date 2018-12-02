@@ -124,6 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Emulators
 
+- [CoCoPi3](http://ogsteviestrow.com/coco3/) - Raspberry Pi based CoCo Emulation Distribution
 - [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
 - [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
 
