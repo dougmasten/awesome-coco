@@ -60,6 +60,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Detect GMC Source Code](http://www.6809.org.uk/tmp/testgmc/)
 - [Tool Program](https://drive.google.com/file/d/1LpS0YEg0PChBnlnu2YxNZocb0eEd3xlm/view)
 
+### Maker Community
+
+#### 3D Printer Models
+- [Program Pak Case](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
+
+#### Hardware Designs
+- [EPROM Pak](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak)
+
 ### Memory Upgrades
 - [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
 - [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
