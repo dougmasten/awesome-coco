@@ -8,6 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Community](#community)
 - [Documentation](#documentation)
 - [Hardware](#hardware)
+- [Maker Community](#maker-community)
 - [Programming](#programming)
 - [Project Blogs](#project-blogs)
 - [Software Developmnt](#software-development)
@@ -36,6 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CoCoTalk! Podcast](http://cocotalk.live/)
 - [The CoCo Crew Podcast](http://www.cococrew.org)
 
+
 ## Documentation
 
 - [CoCo 3 Hardware Programming](http://www.lomont.org/Software/Misc/CoCo/Lomont_CoCoHardware.pdf)
@@ -59,14 +61,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Demo Program](https://drive.google.com/file/d/1nJHDK1-_18M0ht6VB5JNOGE1ze6J8Lp2/view)
 - [Detect GMC Source Code](http://www.6809.org.uk/tmp/testgmc/)
 - [Tool Program](https://drive.google.com/file/d/1LpS0YEg0PChBnlnu2YxNZocb0eEd3xlm/view)
-
-### Maker Community
-
-#### 3D Printer Models
-- [Program Pak Case](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
-
-#### Hardware Designs
-- [EPROM Pak](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak)
 
 ### Memory Upgrades
 - [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
@@ -97,6 +91,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Project Files](https://goo.gl/FZMbY3)
 
 
+## Maker Community
+
+### 3D Printer Models
+- [Program Pak Case](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
+
+### Hardware Designs
+- [EPROM Pak](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak)
+
+
 ## Programming
 
 ### Articles
@@ -122,6 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Programming in BASIC Series](https://www.youtube.com/watch?v=bidwWkEkuSI&list=PLpy5fe6Zd8ccUvxkGHgvLGo70jScz-7wT) - presented by Steve Strow
 - [Setting up Assembly Development Environment](https://youtu.be/_HlUVvypbi4) - presented by Paul Fiscarelli
 - [Video Game Development](https://youtu.be/6wCLunU_dno) - presented by John Strong
+
 
 ## Software Development
 
@@ -163,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Notepad++](https://gist.github.com/pfiscarelli/4fd32f282c23272c2bd231f0b9d1062a)
 - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.color-basic)
+
 
 ## Project Blogs
 
