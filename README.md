@@ -142,6 +142,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Tools
 
+- [KAOSTools](https://github.com/ChetSimpson/KAOSTools) - Converts Tiled .tmx and generates 6809 assembly code
 - [Memory Tester](https://github.com/richard42/cocostress)
 - [Toolshed](https://github.com/boisy/toolshed) - Cross-development disk images tools [Documentation](http://toolshed.sourceforge.net/ToolShed.html)
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
