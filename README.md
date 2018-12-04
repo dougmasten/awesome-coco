@@ -79,6 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### PSG - Programmer Sound Generator (YM2149 Sound Chip)
 
+- [Detect PSG Source Code](https://cdn.discordapp.com/attachments/396357667330850836/514123393046413339/PSG_detect.rtf)
 - [Manual](https://thezippsterzone.com/wp-content/uploads/2018/05/coco-psg-users-manual.pdf)
 - [Project Site](https://thezippsterzone.com/2018/05/08/coco-psg/)
 
