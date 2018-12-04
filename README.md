@@ -68,8 +68,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### MPI - Multipak Interface
 
-- [MEGA-mini MPI (4-port)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
-- [mini-MPI (2-port)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
+- [MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
+- [mini-MPI (2-slots)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
 
 ### Other
 
