@@ -117,7 +117,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Source Code
 
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - by Erik Gavriluk and Greg Miller
+- [Defender](http://computerarcheology.com/Arcade/Defender/) - Arcade platform but Motorola 6809 Assembly Code
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - by Ciaran Anscomb
+- [Robotron 2084](https://seanriddle.com/robomame.asm) - Arcade platform but Motorola 6809 Assembly Code
 - [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - by Paul Thayer
 - [Zenix and Crystal City](https://github.com/gosub-com/Coco) - by Jeremy Spiller
 
