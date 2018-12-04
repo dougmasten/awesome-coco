@@ -68,8 +68,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### MPI - Multipak Interface
 
-- [MEGA-mini MPI by Zippster (4-port)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
-- [mini-MPI by Zippster (2-port)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
+- [MEGA-mini MPI (4-port)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
+- [mini-MPI (2-port)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
 
 ### Other
 
@@ -86,7 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### SDC - Floppy Disk Emulator (SD Card)
 
 - [Developer's Blog](http://cocosdc.blogspot.com/)
-- [Distributor/Manufacturer - Zippster "Ed Snider"](https://thezippsterzone.com/2018/05/08/coco-sdc/)
+- [Distributor/Manufacturer](https://thezippsterzone.com/2018/05/08/coco-sdc/)
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
 - [Project Files](https://goo.gl/FZMbY3)
