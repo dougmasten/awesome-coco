@@ -98,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Program Pak Case](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
 
 ### Hardware Designs
-- [EPROM Pak](https://gitlab.com/NF6X_Retrocomputing/CoCoEPROMpak)
+- [EPROM Pak](http://www.nf6x.net/2013/10/cocoeprompak/)
 
 
 ## Programming
