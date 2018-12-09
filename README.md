@@ -99,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Hardware Designs
 - [EPROM Pak](http://www.nf6x.net/2013/10/cocoeprompak/)
+- [Wire up your own RS-232 WiFi modem for under $10 using ESP8266 and Zimodem firmware](http://subethasoftware.com/2018/02/28/wire-up-your-own-rs-232-wifi-modem-for-under-10-using-esp8266-and-zimodem-firmware/)
 
 
 ## Programming
