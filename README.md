@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Demo Program](https://drive.google.com/file/d/1nJHDK1-_18M0ht6VB5JNOGE1ze6J8Lp2/view)
 - [Detect GMC Source Code](http://www.6809.org.uk/tmp/testgmc/)
 - [Tool Program](https://drive.google.com/file/d/1LpS0YEg0PChBnlnu2YxNZocb0eEd3xlm/view)
+- [Tutorial Programming Video Series](https://www.youtube.com/watch?v=ikxREIHVk9k) - by Mike Rowen
 
 ### Memory Upgrades
 - [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
