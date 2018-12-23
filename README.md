@@ -72,7 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### MPI - Multipak Interface
 
-- [MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/) [- (YMF-262M OPL3 Sound Chip)](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
+- [MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/) - [(YMF-262M OPL3 Sound Chip)](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
 - [mini-MPI (2-slots)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
 
 ### Other
