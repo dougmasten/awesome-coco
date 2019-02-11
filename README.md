@@ -151,7 +151,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Assemblers and Compilers
 
 - [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
-- [LWTOOLS](http://lwtools.ca/) - Cross-development Assembler [Documentation](http://lwtools.ca/manual/manual.pdf) [Project Repository](http://lwtools.ca/hg/)
+- [LWTOOLS](http://www.lwtools.ca/) - Cross-development Assembler [Documentation](http://www.lwtools.ca/manual/manual.pdf) [Project Repository](http://www.lwtools.ca/hg/)
 
 ### Emulators
 
