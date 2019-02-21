@@ -61,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Article](https://www.vintageisthenewold.com/game-master-cartridge-enables-better-games-for-coco/)
 - [Demo Program](https://drive.google.com/file/d/1nJHDK1-_18M0ht6VB5JNOGE1ze6J8Lp2/view)
 - [Detect GMC Source Code](http://www.6809.org.uk/tmp/testgmc/)
+- [Programming the Game Master Cartridge](https://drive.google.com/open?id=17JzrNqIHZaFmtHEeFSevpkJtbWOn2-2EjxMB2cQlxsY) - by John Linville
 - [SN76489 Music Player based on CyD](https://github.com/sorchard001/cyd-gmc)
 - [SN76489 Technical Info](http://www.smspower.org/Development/SN76489)
 - [Tool Program](https://drive.google.com/file/d/1LpS0YEg0PChBnlnu2YxNZocb0eEd3xlm/view)
