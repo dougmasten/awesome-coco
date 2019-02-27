@@ -23,7 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Discord
 
-- [TRS-80 CoCo TALK](https://discordapp.com/invite/4J5nHXm)
+- [TRS-80 & Tandy Talk](https://discordapp.com/invite/4J5nHXm)
 
 ### Email Lists
 
