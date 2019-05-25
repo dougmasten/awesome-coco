@@ -1,2 +1,5 @@
 # ignore awesome_bot logs
 ab-results-*
+
+# misc ignores
+/private
