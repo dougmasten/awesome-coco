@@ -142,8 +142,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### DriveWire
 
-- [DW4 Installation Guide](https://www.cocopedia.com/wiki/index.php/DW4_Installation_Guide)
-- [DriveWire 4.0 Protocol Specification](https://sourceforge.net/p/drivewireserver/wiki/DriveWire_Specification/)
+- [DriveWire 4 Installation Guide](https://www.cocopedia.com/wiki/index.php/DW4_Installation_Guide)
+- [DriveWire 4 Specification](https://sourceforge.net/p/drivewireserver/wiki/DriveWire_Specification/)
 - [Getting Started with DriveWire](https://www.cocopedia.com/wiki/index.php/Getting_Started_with_DriveWire)
 - [pyDriveWire](https://github.com/n6il/pyDriveWire) - Python implementation of DriveWire 4
 
