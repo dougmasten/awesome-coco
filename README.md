@@ -13,8 +13,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Project Blogs](#project-blogs)
 - [Protocols](#protocols)
 - [Software Developmnt](#software-development)
-  * [Assemblers and Compilers](#assemblers-and-compilers)
-  * [Editor Syntax Highlighting](#VEditor-Syntax-Highlighting)
+  * [Assemblers](#assemblers)
+  * [Compilers](#compilers)
+  * [Editor Syntax Highlighting](#editor-syntax-highlighting)
   * [Emulators](#emulators)
   * [Libraries](#libraries)
   * [Tools](#tools)
@@ -155,10 +156,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Software Development
 
-### Assemblers and Compilers
-
-- [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
+### Assemblers
 - [LWTOOLS](http://www.lwtools.ca/) - Cross-development Assembler [Documentation](http://www.lwtools.ca/manual/manual.pdf) [Project Repository](http://www.lwtools.ca/hg/)
+
+### Compilers
+- [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
 
 ### Editor Syntax Highlighting
 
@@ -200,8 +202,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Docker Development Environment](https://github.com/jamieleecho/coco-dev)
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
-
-
 
 
 ## Project Blogs
