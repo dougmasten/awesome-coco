@@ -13,6 +13,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Project Blogs](#project-blogs)
 - [Protocols](#protocols)
 - [Software Developmnt](#software-development)
+  * [Assemblers and Compilers](#assemblers-and-compilers)
+  * [Editor Syntax Highlighting](#VEditor-Syntax-Highlighting)
+  * [Emulators](#emulators)
+  * [Libraries](#libraries)
+  * [Tools](#tools)
 
 ## Community
 
@@ -155,6 +160,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
 - [LWTOOLS](http://www.lwtools.ca/) - Cross-development Assembler [Documentation](http://www.lwtools.ca/manual/manual.pdf) [Project Repository](http://www.lwtools.ca/hg/)
 
+### Editor Syntax Highlighting
+
+#### Assembly
+
+- [Atom](https://atom.io/packages/language-6809)
+- [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
+- [Notepad++](https://gist.github.com/pfiscarelli/4013e3fd743c41ffa788328fbbb4bfd9)
+- [Sublime Text](https://packagecontrol.io/packages/Assembly%206809%20and%206309%20Syntax%20Highlighting)
+- [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
+
+#### Color Basic
+
+- [Notepad++](https://gist.github.com/pfiscarelli/4fd32f282c23272c2bd231f0b9d1062a)
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.color-basic)
+
+#### CMOC
+
+- [Visual Studio](https://github.com/brnomade/cmoc-integration-visual-studio-code)
+
 ### Emulators
 
 - [CoCoPi3](http://rickadams.org/ronklein/) - Raspberry Pi based CoCo Emulation Distribution
@@ -176,25 +201,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Docker Development Environment](https://github.com/jamieleecho/coco-dev)
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
 
-### Editor Syntax Highlighting
 
-#### Assembly
-
-- [Atom](https://atom.io/packages/language-6809)
-- [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
-- [Notepad++](https://gist.github.com/pfiscarelli/4013e3fd743c41ffa788328fbbb4bfd9)
-- [Sublime Text](https://packagecontrol.io/packages/Assembly%206809%20and%206309%20Syntax%20Highlighting)
-- [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
-
-#### Color Basic
-
-- [Notepad++](https://gist.github.com/pfiscarelli/4fd32f282c23272c2bd231f0b9d1062a)
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.color-basic)
-
-#### CMOC
-
-- [Visual Studio](https://github.com/brnomade/cmoc-integration-visual-studio-code)
 
 
 ## Project Blogs
