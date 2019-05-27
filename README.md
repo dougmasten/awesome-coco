@@ -167,7 +167,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Toolshed](https://github.com/boisy/toolshed) - Cross-development disk images tools [Documentation](http://toolshed.sourceforge.net/ToolShed.html)
 - [cocostress](https://github.com/richard42/cocostress) - CoCo 3 RAM Stress Tester
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
+- [os9-dev](https://github.com/hpmachining/os9-dev) - Arch Linux package builds for cross developing
 - [sgeditremix](https://github.com/daftspaniel/sgeditremix) - Web based low-res screen designer
+
 
 ### Libraries
 
