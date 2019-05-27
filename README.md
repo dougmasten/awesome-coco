@@ -157,8 +157,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Software Development
 
 ### Assemblers
-- [asm6809](https://www.6809.org.uk/asm6809/) - Portable cross assembler for Motorola 6809 and Hitachi 6309 [Documentation](https://www.6809.org.uk/asm6809/doc/asm6809.pdf)
 - [LWTOOLS](http://www.lwtools.ca/) - Cross-development Assembler for Motorola 6809 and Hitachi 6309[Documentation](http://www.lwtools.ca/manual/manual.pdf) [Project Repository](http://www.lwtools.ca/hg/)
+- [asm6809](https://www.6809.org.uk/asm6809/) - Portable cross assembler for Motorola 6809 and Hitachi 6309 [Documentation](https://www.6809.org.uk/asm6809/doc/asm6809.pdf)
 
 
 ### Compilers
@@ -189,6 +189,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CoCoPi3](http://rickadams.org/ronklein/) - Raspberry Pi based CoCo Emulation Distribution
 - [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
 - [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
+- [XRoar](https://www.6809.org.uk/xroar/) - Dragon and CoCo 1&2 emulator
 
 ### Tools
 
