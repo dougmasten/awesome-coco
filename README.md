@@ -62,7 +62,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Hardware
 
-### GMC - Game Master Cartridge (SN76489A Sound Chip)
+### Sound
+
+#### GMC - Game Master Cartridge (SN76489A Sound Chip)
 
 - [Article](https://www.vintageisthenewold.com/game-master-cartridge-enables-better-games-for-coco/)
 - [Demo Program](https://drive.google.com/file/d/1nJHDK1-_18M0ht6VB5JNOGE1ze6J8Lp2/view)
@@ -72,6 +74,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SN76489 Technical Info](http://www.smspower.org/Development/SN76489)
 - [Tool Program](https://drive.google.com/file/d/1LpS0YEg0PChBnlnu2YxNZocb0eEd3xlm/view)
 - [Tutorial Programming Video Series](https://www.youtube.com/watch?v=ikxREIHVk9k) - by Mike Rowen
+
+#### PSG - Programmer Sound Generator (YM2149 Sound Chip)
+
+- [Detect PSG Source Code](https://cdn.discordapp.com/attachments/396357667330850836/514123393046413339/PSG_detect.rtf)
+- [Manual](https://thezippsterzone.com/wp-content/uploads/2018/05/coco-psg-users-manual.pdf)
+- [Project Site](https://thezippsterzone.com/2018/05/08/coco-psg/)
 
 ### Memory Upgrades
 - [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
@@ -87,12 +95,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hitachi 6309 CPU Upgrade Professional Install Service](https://boysontech.com/marketplace/)
 - [Paragon Joystick Adapter](https://boysontech.com/marketplace/) - Converter for classic (DB9 connector) Atair 2600, Sega Genesis and Wico joysticks
 - [Switch-a-roo](https://cocomanbiz.wordpress.com/) - RGB to SCART cable (Modern display solution)
-
-### PSG - Programmer Sound Generator (YM2149 Sound Chip)
-
-- [Detect PSG Source Code](https://cdn.discordapp.com/attachments/396357667330850836/514123393046413339/PSG_detect.rtf)
-- [Manual](https://thezippsterzone.com/wp-content/uploads/2018/05/coco-psg-users-manual.pdf)
-- [Project Site](https://thezippsterzone.com/2018/05/08/coco-psg/)
 
 ### SDC - Floppy Disk Emulator (SD Card)
 
