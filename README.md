@@ -49,10 +49,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Documentation
 
-- [CoCo 3 Hardware Programming](https://github.com/ChetSimpson/KAOSTools/blob/master/Reference/Lomont_CoCoHardware.pdf)
+- [CoCo 3 Hardware Programming](https://github.com/ChetSimpson/KAOSTools/raw/master/Reference/Lomont_CoCoHardware.pdf)
 - [CoCo 3 Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
 - [CoCo 3 Service Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
-- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://github.com/ChetSimpson/KAOSTools/blob/master/Reference/6x09_Instruction_Sets.pdf)
+- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://github.com/ChetSimpson/KAOSTools/raw/master/Reference/6x09_Instruction_Sets.pdf)
 
 ### Unravelled Series - Commented source listing of system ROMs
 
