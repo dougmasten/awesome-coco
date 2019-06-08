@@ -83,9 +83,9 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Project Site](https://thezippsterzone.com/2018/05/08/coco-psg/)
 
 ### Memory Modules
-- [Boomerang 2M RAM board by BoysonTech](https://boysontech.com/marketplace/)
+- [Boomerang 2M RAM board](https://boysontech.com/marketplace/) - by BoysonTech
   - [Sample code to program LED](http://rickadams.org/downloads/led.c) - by Rick Adams
-- [Triad 512K SRAM board by Cloud-9](http://www.cloud9tech.com/Hardware/512K.html)
+- [Triad 512K SRAM board](http://www.cloud9tech.com/Hardware/512K.html) - by Cloud-9
 
 ### MPI - Multipak Interface
 
