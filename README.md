@@ -10,7 +10,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Community](#community)
 - [Documentation](#documentation)
 - [Hardware](#hardware)
-  * [Sound](#hardware-sound)
+  * [Sound](#sound)
 - [Maker Community](#maker-community)
 - [Programming](#programming)
 - [Project Blogs](#project-blogs)
