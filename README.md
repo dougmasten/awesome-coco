@@ -85,6 +85,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Memory Upgrades
 - [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
+  - [Sample code to program LED](http://rickadams.org/downloads/led.c) - by Rick Adams
 - [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
 
 ### MPI - Multipak Interface
