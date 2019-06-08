@@ -47,7 +47,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCoTalk! Podcast](http://cocotalk.live/)
 - [The CoCo Crew Podcast](http://www.cococrew.org)
 
-
 ## Documentation
 
 - [CoCo 3 Hardware Programming](https://github.com/ChetSimpson/KAOSTools/blob/master/Reference/Lomont_CoCoHardware.pdf)
@@ -61,7 +60,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Disk Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/disk-basic-unravelled.pdf)
 - [Extended Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/extended-basic-unravelled.pdf)
 - [Super Extended Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/super-extended-basic-unravelled.pdf)
-
 
 ## Hardware
 
@@ -84,10 +82,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Manual](https://thezippsterzone.com/wp-content/uploads/2018/05/coco-psg-users-manual.pdf)
 - [Project Site](https://thezippsterzone.com/2018/05/08/coco-psg/)
 
-### Memory Upgrades
-- [Boomerang 2M RAM Upgrade](https://boysontech.com/marketplace/)
+### Memory Modules
+- [Boomerang 2M RAM board by BoysonTech](https://boysontech.com/marketplace/)
   - [Sample code to program LED](http://rickadams.org/downloads/led.c) - by Rick Adams
-- [Triad 512K SRAM Upgrade](http://www.cloud9tech.com/Hardware/512K.html)
+- [Triad 512K SRAM board by Cloud-9](http://www.cloud9tech.com/Hardware/512K.html)
 
 ### MPI - Multipak Interface
 
@@ -108,7 +106,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
 - [Project Files](https://goo.gl/FZMbY3)
 
-
 ## Maker Community
 
 ### 3D Printer Models
@@ -117,7 +114,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Hardware Designs
 - [EPROM Pak](http://www.nf6x.net/2013/10/cocoeprompak/)
 - [RS-232 WiFi modem using ESP8266](http://subethasoftware.com/2018/02/28/wire-up-your-own-rs-232-wifi-modem-for-under-10-using-esp8266-and-zimodem-firmware/)
-
 
 ## Programming
 
@@ -149,7 +145,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Setting up Assembly Development Environment](https://youtu.be/_HlUVvypbi4) - presented by Paul Fiscarelli
 - [Video Game Development](https://youtu.be/6wCLunU_dno) - presented by John Strong
 
-
 ## Protocols
 
 ### DriveWire
@@ -159,13 +154,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Getting Started with DriveWire](https://www.cocopedia.com/wiki/index.php/Getting_Started_with_DriveWire)
 - [pyDriveWire](https://github.com/n6il/pyDriveWire) - Python implementation of DriveWire 4
 
-
 ## Software Development
 
 ### Assemblers
 - [LWTOOLS](http://www.lwtools.ca/) - Cross-development Assembler for Motorola 6809 and Hitachi 6309 [Documentation](http://www.lwtools.ca/manual/manual.pdf) [Project Repository](http://www.lwtools.ca/hg/)
 - [asm6809](https://www.6809.org.uk/asm6809/) - Portable cross assembler for Motorola 6809 and Hitachi 6309 [Documentation](https://www.6809.org.uk/asm6809/doc/asm6809.pdf)
-
 
 ### Compilers
 - [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
@@ -206,12 +199,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [os9-dev](https://github.com/hpmachining/os9-dev) - Arch Linux package builds for cross developing
 - [sgeditremix](https://github.com/daftspaniel/sgeditremix) - Web based low-res screen designer
 
-
 ### Libraries
 
 - [Docker Development Environment](https://github.com/jamieleecho/coco-dev)
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
-
 
 ## Project Blogs
 
