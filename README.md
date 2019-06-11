@@ -104,7 +104,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Distributor/Manufacturer](https://thezippsterzone.com/2018/05/08/coco-sdc/)
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
-- [Project Files](https://goo.gl/FZMbY3)
+- [Project Files](http://bit.ly/drive-sdcproject)
 
 ## Maker Community
 
