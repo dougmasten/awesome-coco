@@ -133,6 +133,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
 - [Defender](http://computerarcheology.com/Arcade/Defender/) - Disassembly of Motorola 6809 CPU arcade game
+- [Dungeons of Daggorath](http://dod.projects.l-w.ca/) - Disassembly by William Astle
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
 - [Robotron 2084](https://seanriddle.com/robomame.asm) - Disassembly of Motorola 6809 CPU arcade game
 - [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - Original source code by Paul Thayer
