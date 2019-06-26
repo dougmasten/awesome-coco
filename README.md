@@ -18,6 +18,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Software Developmnt](#software-development)
   * [Assemblers](#assemblers)
   * [Compilers](#compilers)
+  * [Development Environment](#development-environment)
   * [Editor Syntax Highlighting](#editor-syntax-highlighting)
   * [Emulators](#emulators)
   * [Libraries](#libraries)
@@ -165,6 +166,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Compilers
 - [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
 
+### Development Environment
+
+- [Atom](https://github.com/mrgw454/AtomDevEnv) - Atom editor development environment
+- [Docker](https://github.com/jamieleecho/coco-dev) - Simplified environment using docker images
+
 ### Editor Syntax Highlighting
 
 #### Assembly
@@ -184,11 +190,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### CMOC
 
 - [Visual Studio](https://github.com/brnomade/cmoc-integration-visual-studio-code)
-
-### Development Environment
-
-- [Atom](https://github.com/mrgw454/AtomDevEnv)
-- [Docker](https://github.com/jamieleecho/coco-dev)
 
 ### Emulators
 
