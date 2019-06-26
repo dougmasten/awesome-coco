@@ -185,6 +185,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [Visual Studio](https://github.com/brnomade/cmoc-integration-visual-studio-code)
 
+### Development Environment
+
+- [Atom](https://github.com/mrgw454/AtomDevEnv)
+- [Docker](https://github.com/jamieleecho/coco-dev)
+
 ### Emulators
 
 - [CoCoPi3](http://rickadams.org/ronklein/) - Raspberry Pi based CoCo Emulation Distribution
@@ -203,7 +208,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Libraries
 
-- [Docker Development Environment](https://github.com/jamieleecho/coco-dev)
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
 
 ## Project Blogs
