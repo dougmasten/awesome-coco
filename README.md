@@ -193,7 +193,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-- [CoCoPi3](http://rickadams.org/ronklein/) - Raspberry Pi based CoCo Emulation Distribution
+- [CoCoPi3](https://github.com/mrgw454/CocoPi3) - Raspberry Pi based CoCo Emulation Distribution
+  * [SD Card Image](http://rickadams.org/ronklein/)
 - [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
 - [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
 - [XRoar](https://www.6809.org.uk/xroar/) - Dragon and CoCo 1&2 emulator
