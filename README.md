@@ -189,7 +189,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### CMOC
 
-- [Visual Studio](https://github.com/brnomade/cmoc-integration-visual-studio-code)
+- [Visual Studio Code](https://github.com/brnomade/cmoc-integration-visual-studio-code)
 
 ### Emulators
 
