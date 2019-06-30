@@ -180,12 +180,12 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Notepad++](https://gist.github.com/pfiscarelli/4013e3fd743c41ffa788328fbbb4bfd9)
 - [Sublime Text](https://packagecontrol.io/packages/Assembly%206809%20and%206309%20Syntax%20Highlighting)
 - [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim)
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.6x09-assembly)
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=blairleduc.6x09-assembly)
 
 #### Color Basic
 
 - [Notepad++](https://gist.github.com/pfiscarelli/4fd32f282c23272c2bd231f0b9d1062a)
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=Tandy.color-basic)
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Tandy.color-basic)
 
 #### CMOC
 
