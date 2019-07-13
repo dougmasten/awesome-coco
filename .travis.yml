@@ -5,7 +5,7 @@ before_script:
   - gem install awesome_bot
 
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,glensideccc.com,
+  - awesome_bot README.md --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,glensideccc.com,pairlist5.pair.net
 
 notifications:
   email:
