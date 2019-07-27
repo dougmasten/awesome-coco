@@ -113,6 +113,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Program Pak Case](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
 
 ### Hardware Designs
+- [Development Cartridge](https://github.com/topherCantrell/CoCoC64DevCart)
 - [EPROM Pak](http://www.nf6x.net/2013/10/cocoeprompak/)
 - [RS-232 WiFi modem using ESP8266](http://subethasoftware.com/2018/02/28/wire-up-your-own-rs-232-wifi-modem-for-under-10-using-esp8266-and-zimodem-firmware/)
 
