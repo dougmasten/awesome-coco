@@ -134,7 +134,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Source Code
 
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
-- [Computer Archeology's Website](http://computerarcheology.com/CoCo/) - various disassemblies
+- [Computer Archeology Website](http://computerarcheology.com/CoCo/) - various disassemblies
 - [Defender](http://computerarcheology.com/Arcade/Defender/) - Disassembly of Motorola 6809 CPU arcade game
 - [Dungeons of Daggorath](http://dod.projects.l-w.ca/) - Disassembly by William Astle
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
