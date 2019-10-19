@@ -146,6 +146,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Videos
 
+- [6809 Assembly with Steve Bjork](https://www.youtube.com/playlist?list=PLDfh7JjQaSYAs92js43dJ05ytKqswUV4r) - presented by Steve Bjork
 - [CMOC, Docker and Dynosprite](https://youtu.be/zn_iLt9j900) - presented by Jamie Cho
 - [Programming in BASIC Series](https://www.youtube.com/watch?v=bidwWkEkuSI&list=PLpy5fe6Zd8ccUvxkGHgvLGo70jScz-7wT) - presented by Steve Strow
 - [Setting up Assembly Development Environment](https://youtu.be/_HlUVvypbi4) - presented by Paul Fiscarelli
