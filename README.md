@@ -140,6 +140,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
 - [Infocom Adventure Games Interpreter](http://www.colorcomputerarchive.com/coco/Programming/Source/Infocom%20Adventure%20Games%20Interpreter/Infocom%20Adventure%20Games%20Interpreter%20Source%20Code%20%28Infocom%29.zip) - Original source code
 - [Robotron 2084](https://seanriddle.com/robomame.asm) - Disassembly of Motorola 6809 CPU arcade game
+- [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) - Original source code by Paul Fiscarelli
 - [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) - Author Rick Adams release (Disassembly by William Astle)
 - [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - Original source code by Paul Thayer
 - [Zenix and Crystal City](https://github.com/gosub-com/Coco) - Original source code by Jeremy Spiller
