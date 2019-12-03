@@ -111,6 +111,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### 3D Printer Models
 - [Program Pak Case](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
+- [SDC Case](https://www.thingiverse.com/thing:1592139)
 
 ### Hardware Designs
 - [Development Cartridge](https://github.com/topherCantrell/CoCoC64DevCart)
