@@ -1,6 +1,6 @@
 # Awesome Tandy CoCo Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/dougmasten/awesome-coco.svg?branch=master)](https://travis-ci.org/dougmasten/awesome-coco)
 
-A curated list of awesome Tandy Color Computer development resources, tools, docs and related projects.
+A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
