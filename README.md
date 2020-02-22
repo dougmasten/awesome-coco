@@ -143,6 +143,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
+- [Bedlam](http://www.computerarcheology.com/CoCo/Bedlam/) - Disassembly
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
 - [Computer Archeology Website](https://computerarcheology.com/CoCo/) - various disassemblies
 - [Defender](http://computerarcheology.com/Arcade/Defender/) - Disassembly of Motorola 6809 CPU arcade game
@@ -158,7 +159,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) - Author Rick Adams release (Disassembly by William Astle)
 - [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - Original source code by Paul Thayer
 - [Zenix and Crystal City](https://github.com/gosub-com/Coco) - Original source code by Jeremy Spiller
-
 
 ### Videos
 
