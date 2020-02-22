@@ -85,9 +85,9 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### OPL3 - MEGA mini MPI and SDC Extender (YMF-262 Sound Chip)
 
-- [Programming the OPL3 with the Color Computer](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
-- [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
 - [OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor) - Cross-platform OPL3 FM banks editor
+- [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
+- [Programming the OPL3 with the Color Computer](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
 
 ### Memory Modules
 
@@ -97,10 +97,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### MPI - Multipak Interface
 
-- [Zippster MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
-- [Zippster mini-MPI (2-slots)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
 - [Tandy Multi-Pak Interface Owners Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Owners%20Manual%20%28Tandy%29.pdf)
 - [Tandy Multi-Pak Interface Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Schematic%20%28Tandy%29.pdf)
+- [Zippster MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
+- [Zippster mini-MPI (2-slots)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
 
 ### Other
 
