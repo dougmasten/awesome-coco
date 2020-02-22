@@ -26,26 +26,12 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Community
 
-### Conferences
-
-- [Glenside "Last" Chicago CoCoFEST!](http://www.glensideccc.com/)
-- [Tandy Assembly](http://www.tandyassembly.com/)
-
-### Discord
-
-- [TRS-80 & Tandy Talk](https://discordapp.com/invite/4J5nHXm)
-
-### Email Lists
-
-- [CoCoList](https://pairlist5.pair.net/mailman/listinfo/coco)
-
-### Facebook
-
-- [TRS-80 Color Computer (CoCo)](https://www.facebook.com/groups/2359462640/)
-
-### Podcasts
-
+- [CoCoList Email List](https://pairlist5.pair.net/mailman/listinfo/coco)
 - [CoCoTalk! Podcast](http://cocotalk.live/)
+- [Glenside "Last" Chicago CoCoFEST! Conference](http://www.glensideccc.com/)
+- [TRS-80 & Tandy Talk Discord Server](https://discordapp.com/invite/4J5nHXm)
+- [TRS-80 Color Computer (CoCo) Group on Facebook](https://www.facebook.com/groups/2359462640/)
+- [Tandy Assembly Conference](http://www.tandyassembly.com/)
 - [The CoCo Crew Podcast](http://www.cococrew.org)
 
 ## Documentation
