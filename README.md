@@ -143,17 +143,17 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-- [Bedlam](http://www.computerarcheology.com/CoCo/Bedlam/) - Disassembly
+- [Bedlam](https://www.computerarcheology.com/CoCo/Bedlam/) - Disassembly
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
 - [Computer Archeology Website](https://computerarcheology.com/CoCo/) - various disassemblies
-- [Defender](http://computerarcheology.com/Arcade/Defender/) - Disassembly of Motorola 6809 CPU arcade game
+- [Defender](https://computerarcheology.com/Arcade/Defender/) - Disassembly of Motorola 6809 CPU arcade game
 - [Dungeons of Daggorath](http://dod.projects.l-w.ca/) - Disassembly by William Astle
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
 - [Infocom Adventure Games Interpreter](http://www.colorcomputerarchive.com/coco/Programming/Source/Infocom%20Adventure%20Games%20Interpreter/Infocom%20Adventure%20Games%20Interpreter%20Source%20Code%20%28Infocom%29.zip) - Original source code
-- [Madness and the Minotaur](http://www.computerarcheology.com/CoCo/MadnessMinotaur/) - Disassembly
-- [MegaBug](http://www.computerarcheology.com/CoCo/Megabug/) - Disassembly
-- [Pyramid 2000](http://www.computerarcheology.com/CoCo/Pyramid/) - Disassembly
-- [Raaka Tu](http://www.computerarcheology.com/CoCo/RaakaTu/) - Disassembly
+- [Madness and the Minotaur](https://www.computerarcheology.com/CoCo/MadnessMinotaur/) - Disassembly
+- [MegaBug](https://www.computerarcheology.com/CoCo/Megabug/) - Disassembly
+- [Pyramid 2000](https://www.computerarcheology.com/CoCo/Pyramid/) - Disassembly
+- [Raaka Tu](https://www.computerarcheology.com/CoCo/RaakaTu/) - Disassembly
 - [Robotron 2084](https://seanriddle.com/robomame.asm) - Disassembly of Motorola 6809 CPU arcade game
 - [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) - Original source code by Paul Fiscarelli
 - [Shanghai](https://github.com/yggdrasilradio/shanghai) - Original source code by Rick Adams
