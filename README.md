@@ -98,6 +98,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### SDC - Floppy Disk Emulator (SD Card)
 
 - [Developer's Blog](http://cocosdc.blogspot.com/)
+- [Disk Image Formats](https://cocosdc.blogspot.com/p/sd-card-socket-sd-card-socket-is-push.html)
 - [Distributor/Manufacturer](https://thezippsterzone.com/2018/05/08/coco-sdc/)
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
