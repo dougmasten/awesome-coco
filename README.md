@@ -87,6 +87,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [Programming the OPL3 with the Color Computer](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
 - [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
+- [OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor) - Cross-platform OPL3 FM banks editor
 
 ### Memory Modules
 
