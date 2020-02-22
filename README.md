@@ -103,6 +103,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
 - [Project Files](http://bit.ly/drive-sdcproject)
+- [dmk2sdf](https://goo.gl/q61D6s) - Command line tool to convert DMK images to SDF format. Includes source code.
 
 ## Maker Community
 
