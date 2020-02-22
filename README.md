@@ -149,6 +149,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Dungeons of Daggorath](http://dod.projects.l-w.ca/) - Disassembly by William Astle
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
 - [Infocom Adventure Games Interpreter](http://www.colorcomputerarchive.com/coco/Programming/Source/Infocom%20Adventure%20Games%20Interpreter/Infocom%20Adventure%20Games%20Interpreter%20Source%20Code%20%28Infocom%29.zip) - Original source code
+- [MegaBug](http://www.computerarcheology.com/CoCo/Megabug/) - Disassembly
 - [Robotron 2084](https://seanriddle.com/robomame.asm) - Disassembly of Motorola 6809 CPU arcade game
 - [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) - Original source code by Paul Fiscarelli
 - [Shanghai](https://github.com/yggdrasilradio/shanghai) - Original source code by Rick Adams
