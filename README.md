@@ -83,6 +83,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Manual](https://thezippsterzone.com/wp-content/uploads/2018/05/coco-psg-users-manual.pdf)
 - [Project Site](https://thezippsterzone.com/2018/05/08/coco-psg/)
 
+#### OPL3 - MEGA mini MPI and SDC Extender (YMF-262 Sound Chip)
+
+- [Programming the OPL3 with the Color Computer](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
+- [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
+
 ### Memory Modules
 - [Boomerang 2M RAM board](https://boysontech.com/marketplace/) - by BoysonTech
   - [Sample code to program LED](http://rickadams.org/downloads/led.c) - by Rick Adams
@@ -90,8 +95,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### MPI - Multipak Interface
 
-- [MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/) - [(YMF-262M OPL3 Sound Chip)](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
+- [MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
 - [mini-MPI (2-slots)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
+- [Tandy Multi-Pak Interface Owners Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Owners%20Manual%20%28Tandy%29.pdf)
+- [Tandy Multi-Pak Interface Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Schematic%20%28Tandy%29.pdf)
 
 ### Other
 
