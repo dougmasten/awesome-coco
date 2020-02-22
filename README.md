@@ -89,14 +89,15 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
 
 ### Memory Modules
-- [Boomerang 2M RAM board](https://boysontech.com/marketplace/) - by BoysonTech
+
+- [BoysonTech Boomerang 2M RAM board](https://boysontech.com/marketplace/)
   - [Sample code to program LED](http://rickadams.org/downloads/led.c) - by Rick Adams
-- [Triad 512K SRAM board](http://www.cloud9tech.com/Hardware/512K.html) - by Cloud-9
+- [Cloud-9 Triad 512K SRAM board](http://www.cloud9tech.com/Hardware/512K.html)
 
 ### MPI - Multipak Interface
 
-- [MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
-- [mini-MPI (2-slots)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
+- [Zippster MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
+- [Zippster mini-MPI (2-slots)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
 - [Tandy Multi-Pak Interface Owners Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Owners%20Manual%20%28Tandy%29.pdf)
 - [Tandy Multi-Pak Interface Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Schematic%20%28Tandy%29.pdf)
 
