@@ -205,7 +205,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
   * [SD Card Image](http://rickadams.org/ronklein/)
 - [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
 - [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
-- [XRoar](https://www.6809.org.uk/xroar/) - Dragon and CoCo 1&2 emulator
+- [XRoar Online](https://www.6809.org.uk/xroar/online/) - Dragon and CoCo 1&2 Emulator in Web Browser
+- [XRoar](https://www.6809.org.uk/xroar/) - Dragon and CoCo 1&2 Emulator
 
 ### Tools
 
