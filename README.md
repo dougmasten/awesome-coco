@@ -210,6 +210,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCoPi3](https://github.com/mrgw454/CocoPi3) - Raspberry Pi based CoCo Emulation Distribution
   * [SD Card Image](http://rickadams.org/ronklein/)
 - [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
+  * [Debugger Documentation](https://docs.mamedev.org/debugger/index.html)
 - [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
 - [XRoar Online](https://www.6809.org.uk/xroar/online/) - Dragon and CoCo 1&2 Emulator in Web Browser
 - [XRoar](https://www.6809.org.uk/xroar/) - Dragon and CoCo 1&2 Emulator
