@@ -223,6 +223,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [File2DSK](http://www.chipple.net/coco/file2dsk/) - Command line utility to copy BAS/BIN files to a DSK virtual disk
 - [KAOSTools](https://github.com/ChetSimpson/KAOSTools) - Convert tiled .tmx files and generate 6809 assembly code
+- [SysInfo](https://tektodd.com/wp-content/CoCo-Downloads/sysinfo.zip) - System Info
 - [Toolshed](https://sourceforge.net/projects/toolshed/) - Cross-development disk images tools [Documentation](http://toolshed.sourceforge.net/ToolShed.html)
 - [cocostress](https://github.com/richard42/cocostress) - CoCo 3 RAM Stress Tester
 - [dmk2sdf](https://goo.gl/q61D6s) - Command line tool to convert DMK images to SDF format. Includes source code.
