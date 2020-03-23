@@ -182,7 +182,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Compilers
 
-- [CMOC](http://sarrazip.com/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](https://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
+- [CMOC](http://sarrazip.com/dev/cmoc.html) - Cross-compiler for a subset of the C language [Documentation](http://perso.b2b2c.ca/~sarrazip/dev/cmoc-manual.html)
 
 ### Development Environment
 
