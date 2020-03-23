@@ -233,6 +233,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Libraries
 
+- [CRC-16-CCITT](http://www.6809.org.uk/dragon/asm/crc16.s) - by Ciaran Anscomb
 - [CoCoDevelopmentShell](https://github.com/ChetSimpson/CoCoDevelopmentShell) - Chet Simpson's Development Shell
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
 
