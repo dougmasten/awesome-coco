@@ -233,6 +233,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Libraries
 
+- [CoCoDevelopmentShell](https://github.com/ChetSimpson/CoCoDevelopmentShell) - Chet Simpson's Development Shell
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
 
 ## Project Blogs
