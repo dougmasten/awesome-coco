@@ -12,6 +12,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Hardware](#hardware)
   * [Sound](#sound)
 - [Maker Community](#maker-community)
+  * [3D Printer Models](#3d-printer-models)
+  * [Hardware Designs](#hardware-designs)
 - [Programming](#programming)
   * [Articles](#articles)
   * [Source Code](#source-code)
