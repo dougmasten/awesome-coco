@@ -57,6 +57,12 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Hardware
 
+### GIME-X - FPGA replacement of GIME ASIC w/ feature enhancements
+
+- [GIME-X Installation and User Guide](https://cdn.discordapp.com/attachments/701668380423356467/703043015853473822/GIME-X_Installation_and_User_Guide.pdf)
+- [GIME-X Speed Test 2.86 MHz Video](https://www.youtube.com/watch?v=F8Tks28CqrI)
+- [Project Page](https://thezippsterzone.com/2019/03/27/gime-x/)
+
 ### Sound
 
 #### GMC - Game Master Cartridge (SN76489A Sound Chip)
