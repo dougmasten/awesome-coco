@@ -182,6 +182,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [DriveWire 4 Specification](https://sourceforge.net/p/drivewireserver/wiki/DriveWire_Specification/)
 - [Getting Started with DriveWire](https://www.cocopedia.com/wiki/index.php/Getting_Started_with_DriveWire)
 - [pyDriveWire](https://github.com/n6il/pyDriveWire) - Python implementation of DriveWire 4
+- [Video Guide to PyDriveWire, DWterm and Telnet BBS](https://www.youtube.com/watch?v=coAa2qeFJoE)
+
 
 ## Software Development
 
