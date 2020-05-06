@@ -231,6 +231,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
   * [Debugger Documentation](https://docs.mamedev.org/debugger/index.html)
   * [How to emulate a Color Computer in MAME Video](https://youtu.be/3NegztbUWM8) - Part 1 of 2
   * [How to emulate a Color Computer in MAME Video](https://youtu.be/A9Arxa7JbsI) - Part 2 of 2
+  * [MAME Documentation](https://docs.mamedev.org/_files/MAME.pdf)
 - [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
 - [XRoar Online](https://www.6809.org.uk/xroar/online/) - Dragon and CoCo 1&2 Emulator in Web Browser
 - [XRoar](https://www.6809.org.uk/xroar/) - Dragon and CoCo 1&2 Emulator
