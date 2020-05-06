@@ -59,7 +59,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### GIME-X - FPGA replacement of GIME ASIC w/ feature enhancements
 
-- [GIME-X Installation and User Guide](https://cdn.discordapp.com/attachments/701668380423356467/703043015853473822/GIME-X_Installation_and_User_Guide.pdf)
+- [GIME-X Installation and User Guide](https://drive.google.com/file/d/1Ig3bDV8Scv9jB1mQwxSIoqn8Bqp-kFPZ/edit)
 - [GIME-X Main Board Overview Video](https://youtu.be/Q8rA0fkvKeU)
 - [GIME-X Speed Test 2.86 MHz Video](https://www.youtube.com/watch?v=F8Tks28CqrI)
 - [Installing the GIME-X Video](https://youtu.be/Ba3fBYJXwVE)
