@@ -114,7 +114,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [Developer's Blog](http://cocosdc.blogspot.com/)
 - [Disk Image Formats](https://cocosdc.blogspot.com/p/sd-card-socket-sd-card-socket-is-push.html)
-- [Distributor/Manufacturer](https://thezippsterzone.com/2018/05/08/coco-sdc/)
+- [Distributor/Manufacturer - Zippster](https://thezippsterzone.com/mpis-coco-sdc-etc/)
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
 - [Project Files](http://bit.ly/drive-sdcproject)
