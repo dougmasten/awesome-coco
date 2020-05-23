@@ -227,6 +227,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [CoCoPi3](https://github.com/mrgw454/CocoPi3) - Raspberry Pi based CoCo Emulation Distribution
   * [SD Card Image](http://rickadams.org/ronklein/)
+  * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
 - [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
   * [Debugger Documentation](https://docs.mamedev.org/debugger/index.html)
   * [How to emulate a Color Computer in MAME Video](https://youtu.be/3NegztbUWM8) - Part 1 of 2
