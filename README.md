@@ -106,9 +106,9 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Other
 
+- [BoysonTech Paragon Joystick Adapter](https://boysontech.com/marketplace/)
 - [Hitachi 6309 CPU Upgrade Professional Install Service](https://boysontech.com/marketplace/)
-- [Paragon Joystick Adapter](https://boysontech.com/marketplace/) - Converter for classic (DB9 connector) Atair 2600, Sega Genesis and Wico joysticks
-- [Switch-a-roo](https://cocomanbiz.wordpress.com/) - RGB to SCART cable (Modern display solution)
+- [Switch-a-roo](https://cocomanbiz.wordpress.com/) - RGB to SCART cable
 
 ### SDC - Floppy Disk Emulator (SD Card)
 
