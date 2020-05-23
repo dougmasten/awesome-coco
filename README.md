@@ -93,7 +93,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Memory Modules
 
 - [BoysonTech Boomerang 2M RAM board](https://boysontech.com/marketplace/)
-  - [Sample code to program LED](http://rickadams.org/downloads/led.c) - by Rick Adams
+  - [Installation of E2 Board](https://boysontech.com/boomerang-install/)
 - [Cloud-9 Triad 512K SRAM board](http://www.cloud9tech.com/Hardware/512K.html)
 
 ### MPI - Multipak Interface
