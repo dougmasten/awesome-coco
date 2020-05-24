@@ -90,6 +90,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
 - [Programming the OPL3 with the Color Computer](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
 
+#### Orchestra90-CC
+
+- [Distributor/Manufacturer - Zippster](https://thezippsterzone.com/2018/05/08/cocodac-16/)
+- [Manual](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Orchestra-90%20CC%20Stereo%20Music%20Synthesizer%20%28Tandy%29.pdf)
+
 ### Memory Modules
 
 - [BoysonTech Boomerang 2M RAM board](https://boysontech.com/marketplace/)
