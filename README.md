@@ -231,8 +231,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
 - [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
   * [Debugger Documentation](https://docs.mamedev.org/debugger/index.html)
-  * [How to emulate a Color Computer in MAME Video](https://youtu.be/3NegztbUWM8) - Part 1 of 2
-  * [How to emulate a Color Computer in MAME Video](https://youtu.be/A9Arxa7JbsI) - Part 2 of 2
+  * [How to emulate a Color Computer in MAME Video - Part 1](https://youtu.be/3NegztbUWM8) [Part 2](https://youtu.be/A9Arxa7JbsI)
   * [MAME Documentation](https://docs.mamedev.org/_files/MAME.pdf)
 - [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
 - [XRoar Online](https://www.6809.org.uk/xroar/online/) - Dragon and CoCo 1&2 Emulator in Web Browser
