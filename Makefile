@@ -3,7 +3,6 @@ help:
 	@echo 'Usage:'
 	@echo '  make sort     - sort README.md'
 	@echo '  make test     - check urls in README.md'
-	@echo '  make clean    - clean project directory'
 
 .PHONY: sort
 sort:
@@ -13,9 +12,4 @@ sort:
 
 .PHONY: test
 test:
-	@awesome_bot README.md --skip-save-results --allow-dupe --allow-redirect
-
-.PHONY: clean
-clean:
-# remove awesome_bot logs
-	@rm -f ab-results-README.md*
+	@docker run -ti --rm -v $$PWD:/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --skip-save-results ./README.md
