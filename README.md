@@ -261,6 +261,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CRC32-6x09](https://github.com/dougmasten/crc32-6x09) - CRC-32 Library for H6309
 - [CoCoDevelopmentShell](https://github.com/ChetSimpson/CoCoDevelopmentShell) - Chet Simpson's Development Shell
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
+- [LZSA](https://github.com/emmanuel-marty/lzsa) - Fast Data Decompression by Marty Emmanuel
 
 ## Project Blogs
 
