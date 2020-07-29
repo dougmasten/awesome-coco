@@ -264,6 +264,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Compression
 
+- [Exomizer](https://bitbucket.org/magli143/exomizer/wiki/Home) - Packing tool by Magnus Lind
 - [LZSA](https://github.com/emmanuel-marty/lzsa) - Fast Data Decompression by Marty Emmanuel
 - [SLZ](https://www.gamedev.net/reference/articles/article294.asp) - LZ77 based compression by Adisak Pochanayon
   * [SLZ M6809 Depacker](https://github.com/beretta42/legsforth/blob/master/cocoboot/slz.asm)
