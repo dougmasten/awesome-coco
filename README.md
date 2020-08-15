@@ -187,6 +187,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### DriveWire
 
+- [DriveWire 3 Protocol](http://www.pitre.org/papers/dw3spec.pdf)
 - [DriveWire 4 Installation Guide](https://www.cocopedia.com/wiki/index.php/DW4_Installation_Guide)
 - [DriveWire 4 Specification](https://sourceforge.net/p/drivewireserver/wiki/DriveWire_Specification/)
 - [Getting Started with DriveWire](https://www.cocopedia.com/wiki/index.php/Getting_Started_with_DriveWire)
