@@ -276,8 +276,9 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [CoCoDevelopmentShell](https://github.com/ChetSimpson/CoCoDevelopmentShell) - Chet Simpson's Development Shell
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
+- [FP09](https://github.com/brouhaha/fp09) - Floating point routines written by Motorola
 
-#### Monitors
+#### Monitor
 
 - [Motorola ASSIST09](https://github.com/jefftranter/6809/tree/master/sbc/assist09)
 - [Percom PSYMON](https://exileinparadise.com/_media/tandy_color_computer:psymon120b.zip)
