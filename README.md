@@ -170,6 +170,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Robotron 2084](https://seanriddle.com/robomame.asm) - Disassembly of Motorola 6809 CPU arcade game
 - [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) - Original source code by Paul Fiscarelli
 - [Shanghai](https://github.com/yggdrasilradio/shanghai) - Original source code by Rick Adams
+- [Star Spores](https://github.com/dshadoff/Star-Spores_CoCo) - Original source code by Dave Shadoff
 - [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) - Author Rick Adams release (Disassembly by William Astle)
 - [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - Original source code by Paul Thayer
 - [Zenix and Crystal City](https://github.com/gosub-com/Coco) - Original source code by Jeremy Spiller
