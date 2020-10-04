@@ -238,6 +238,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [MAME](http://www.mamedev.org/release.html) - Multiple Arcade Machine Emulator
   * [Debugger Documentation](https://docs.mamedev.org/debugger/index.html)
   * [MAME Documentation](https://docs.mamedev.org/_files/MAME.pdf)
+  * [Using serial ports in MAME](http://tlindner.macmess.org/?page_id=659)
   * [Video - How to emulate a Color Computer in MAME - Part 1](https://youtu.be/3NegztbUWM8) [Part 2](https://youtu.be/A9Arxa7JbsI)
 - [VCC](https://github.com/VCCE/VCC/releases) - Virtual Color Computer Emulator
 - [XRoar Online](https://www.6809.org.uk/xroar/online/) - Dragon and CoCo 1&2 Emulator in Web Browser
