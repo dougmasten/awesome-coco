@@ -1,4 +1,4 @@
-# Awesome Tandy CoCo Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Build Status](https://travis-ci.com/dougmasten/awesome-coco.svg?branch=master)](https://travis-ci.com/dougmasten/awesome-coco)
+# Awesome Tandy CoCo Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![ci](https://github.com/dougmasten/awesome-coco/workflows/ci/badge.svg)
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
