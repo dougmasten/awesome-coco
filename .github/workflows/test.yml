@@ -17,5 +17,5 @@ jobs:
       with:
         ruby-version: 2.6
         bundler-cache: true
-    - run: bundle install
-    - run: bundle exec rake
+    - run: gem install awesome_bot
+    - run: awesome_bot README.md --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,glensideccc.com,pairlist5.pair.net,colorcomputerarchive.com,tektodd.com
