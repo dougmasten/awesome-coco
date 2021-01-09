@@ -159,7 +159,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [Bedlam](https://www.computerarcheology.com/CoCo/Bedlam/) - Disassembly
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
-- [Defender](https://computerarcheology.com/Arcade/Defender/) - Disassembly of Motorola 6809 CPU arcade game
 - [Dungeons of Daggorath](http://dod.projects.l-w.ca/) - Disassembly by William Astle
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
 - [Infocom Adventure Games Interpreter](http://www.colorcomputerarchive.com/coco/Programming/Source/Infocom%20Adventure%20Games%20Interpreter/Infocom%20Adventure%20Games%20Interpreter%20Source%20Code%20%28Infocom%29.zip) - Original source code
@@ -167,13 +166,20 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [MegaBug](https://www.computerarcheology.com/CoCo/Megabug/) - Disassembly
 - [Pyramid 2000](https://www.computerarcheology.com/CoCo/Pyramid/) - Disassembly
 - [Raaka Tu](https://www.computerarcheology.com/CoCo/RaakaTu/) - Disassembly
-- [Robotron 2084](https://seanriddle.com/robomame.asm) - Disassembly of Motorola 6809 CPU arcade game
+- [Robotron 2084](https://seanriddle.com/robomame.asm) - M6809 arcade game
 - [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) - Original source code by Paul Fiscarelli
 - [Shanghai](https://github.com/yggdrasilradio/shanghai) - Original source code by Rick Adams
 - [Star Spores](https://github.com/dshadoff/Star-Spores_CoCo) - Original source code by Dave Shadoff
 - [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) - Author Rick Adams release (Disassembly by William Astle)
 - [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - Original source code by Paul Thayer
 - [Zenix and Crystal City](https://github.com/gosub-com/Coco) - Original source code by Jeremy Spiller
+
+#### Other platforms
+
+- [Defender](https://github.com/historicalsource/defender) - M6809 arcade game
+- [Joust](https://github.com/historicalsource/joust) - M6809 arcade game
+- [Robotron](https://github.com/historicalsource/robotron) - M6809 arcade game 
+- [Stargate](https://github.com/historicalsource/stargate) - M6809 arcade game
 
 ### Videos
 
