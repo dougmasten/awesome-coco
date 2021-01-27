@@ -160,6 +160,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [Bedlam](https://www.computerarcheology.com/CoCo/Bedlam/) - Disassembly
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
+- [Delphiterm](https://github.com/yggdrasilradio/delphiterm) - Original source code by Rick Adams
 - [Dungeons of Daggorath](http://dod.projects.l-w.ca/) - Disassembly by William Astle
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
 - [Infocom Adventure Games Interpreter](http://www.colorcomputerarchive.com/coco/Programming/Source/Infocom%20Adventure%20Games%20Interpreter/Infocom%20Adventure%20Games%20Interpreter%20Source%20Code%20%28Infocom%29.zip) - Original source code
