@@ -1,4 +1,4 @@
-name: awesome-bot 
+name: ci
 
 on:
   push:
