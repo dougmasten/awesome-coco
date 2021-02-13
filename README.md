@@ -34,7 +34,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo Contacts Map](https://www.google.com/maps/d/u/0/viewer?mid=1NsilYgpxOXvME-6WOMhYmDp0L-M&ll=37.774709158081365%2C-95.66578829504033&z=5&fbclid=IwAR0GTOVPBNuD4thwFX-mTiGO8JoJPu-wBnf73cySXFkuI30ck5M8qeMgNFw)
 - [CoCo Discord Server](https://discordapp.com/invite/4J5nHXm)
 - [CoCo Facebook Group](https://www.facebook.com/groups/2359462640/)
-- [CoCoFEST! Conference](http://www.glensideccc.com/)
+- [CoCoFEST! Conference](https://glensideccc.com/)
 - [CoCoList Email](https://pairlist5.pair.net/mailman/listinfo/coco)
 - [CoCoTalk! Podcast](https://www.twitch.tv/cocotalk)
 - [Tandy Assembly Conference](http://www.tandyassembly.com/)
