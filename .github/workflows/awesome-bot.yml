@@ -11,7 +11,7 @@ on:
     - cron: "14 3 * * 1"
 
 jobs:
-  test:
+  awesome-bot:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,5 +26,5 @@ jobs:
         run: gem install awesome_bot
       
       - name: Run Awesome-bot
-        run: awesome_bot README.md --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,glensideccc.com,pairlist5.pair.net,colorcomputerarchive.com,tektodd.com
+        run: awesome_bot README.md --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,glensideccc.com,pairlist5.pair.net,colorcomputerarchive.com,cosmicaliens.com
 
