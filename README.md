@@ -280,6 +280,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
   * [SLZ Packer](https://github.com/beretta42/legsforth/tree/master/cocoboot/tools/slz)
 - [apultra](https://github.com/emmanuel-marty/apultra) - Optimal data compressor for apLib format by Marty Emmanuel
 - [dzip](http://www.6809.org.uk/dragon/dzip.tar.gz) - Simple compression by Ciaran Anscomb
+- [ZX0](https://github.com/einar-saukas/ZX0) - by Einar Saukas
+  * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) - by Doug Masten
 
 #### Misc
 
