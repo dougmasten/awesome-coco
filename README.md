@@ -34,7 +34,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo Discord Server](https://discordapp.com/invite/4J5nHXm)
 - [CoCo Facebook Group](https://www.facebook.com/groups/2359462640/)
 - [CoCoFEST! conference](https://glensideccc.com/)
-- [CoCoList mailing list](https://pairlist5.pair.net/mailman/listinfo/coco) at Malted Media
+- [CoCoList mailing list](https://pairlist5.pair.net/mailman/listinfo/coco)
 - [CoCoTalk! Podcast](https://www.twitch.tv/cocotalk)
 - [RetroBytes community on Matrix](https://app.element.io/#/group/+retrobytes:matrix.org) - English, Spanish and French chat on the Matrix network
 - [Tandy Assembly conference](http://www.tandyassembly.com/)
