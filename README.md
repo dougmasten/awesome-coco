@@ -278,10 +278,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [SLZ](https://www.gamedev.net/reference/articles/article294.asp) - LZ77 based compression by Adisak Pochanayon
   * [SLZ M6809 Depacker](https://github.com/beretta42/legsforth/blob/master/cocoboot/slz.asm)
   * [SLZ Packer](https://github.com/beretta42/legsforth/tree/master/cocoboot/tools/slz)
-- [apultra](https://github.com/emmanuel-marty/apultra) - Optimal data compressor for apLib format by Marty Emmanuel
-- [dzip](http://www.6809.org.uk/dragon/dzip.tar.gz) - Simple compression by Ciaran Anscomb
 - [ZX0](https://github.com/einar-saukas/ZX0) - by Einar Saukas
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) - by Doug Masten
+- [apultra](https://github.com/emmanuel-marty/apultra) - Optimal data compressor for apLib format by Marty Emmanuel
+- [dzip](http://www.6809.org.uk/dragon/dzip.tar.gz) - Simple compression by Ciaran Anscomb
 
 #### Misc
 
