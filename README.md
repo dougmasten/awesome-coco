@@ -33,10 +33,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo Contacts Map](https://www.google.com/maps/d/u/0/viewer?mid=1NsilYgpxOXvME-6WOMhYmDp0L-M&ll=37.774709158081365%2C-95.66578829504033&z=5&fbclid=IwAR0GTOVPBNuD4thwFX-mTiGO8JoJPu-wBnf73cySXFkuI30ck5M8qeMgNFw)
 - [CoCo Discord Server](https://discordapp.com/invite/4J5nHXm)
 - [CoCo Facebook Group](https://www.facebook.com/groups/2359462640/)
+- [CoCo Matrix Group](https://app.element.io/#/group/+retrobytes:matrix.org)
 - [CoCoFEST! conference](https://glensideccc.com/)
 - [CoCoList mailing list](https://pairlist5.pair.net/mailman/listinfo/coco)
 - [CoCoTalk! Podcast](https://www.twitch.tv/cocotalk)
-- [RetroBytes community on Matrix](https://app.element.io/#/group/+retrobytes:matrix.org) - English, Spanish and French chat on the Matrix network
 - [Tandy Assembly conference](http://www.tandyassembly.com/)
 - [The CoCo Crew Podcast](http://www.cococrew.org)
 
