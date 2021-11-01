@@ -98,9 +98,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Memory Modules
 
-- [BoysonTech Boomerang 2M RAM board](https://boysontech.com/marketplace/)
-  - [Installation of E2 Board](https://boysontech.com/boomerang-install/)
-  - [Source code to program LED](http://rickadams.org/downloads/led.c) - by Rick Adams
 - [Cloud-9 Triad 512K SRAM board](http://www.cloud9tech.com/Hardware/512K.html)
 
 ### MPI - Multipak Interface
@@ -112,8 +109,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Other
 
-- [BoysonTech Paragon Joystick Adapter](https://boysontech.com/marketplace/)
-- [Hitachi 6309 CPU Upgrade Professional Install Service](https://boysontech.com/marketplace/)
 - [Switch-a-roo](https://cocomanbiz.wordpress.com/) - RGB to SCART cable
 
 ### SDC - Floppy Disk Emulator (SD Card)
