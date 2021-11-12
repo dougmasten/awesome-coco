@@ -109,7 +109,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Other
 
-- [Switch-a-roo](https://cocomanbiz.wordpress.com/) - RGB to SCART cable
+- [Switch-a-roo](https://cocoman.onlineweb.shop/) - RGB to SCART cable
 
 ### SDC - Floppy Disk Emulator (SD Card)
 
