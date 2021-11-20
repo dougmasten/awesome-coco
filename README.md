@@ -130,6 +130,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [SDC Case](https://www.thingiverse.com/thing:1592139)
 
 ### Hardware Designs
+- [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb)
 - [CoCo 3 RGB to SCART to HDMI Cable](https://hackaday.io/project/7366-coco-3-rgb-to-scart-to-hdmi-cable) - by Barry Nelson
 - [Development Cartridge](https://github.com/topherCantrell/CoCoC64DevCart)
 - [EPROM Pak](http://www.nf6x.net/2013/10/cocoeprompak/)
