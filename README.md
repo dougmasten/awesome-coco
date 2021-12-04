@@ -49,7 +49,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Color Computer PIAs](http://tlindner.macmess.org/wp-content/uploads/2006/09/cocopias-R3.pdf)
 - [Learning the 6809](http://maltedmedia.com/6809/) - by Dennis Bathory Kitsz
 - [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://github.com/ChetSimpson/KAOSTools/blob/master/Reference/6x09_Instruction_Sets.pdf)
-- [Sockmaster's GIME Register Reference](http://users.axess.com/twilight/sock/gime.html)
 
 ### Unravelled Series - Commented source listing of system ROMs
 
@@ -307,10 +306,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [Cosmic Aliens Development](http://cosmicaliens.com/development-blog/) by Steve Strowbridge
 - [Defender Conversion](https://nowhereman999.wordpress.com/2017/12/31/defender-conversion-for-the-coco-3-part-1/) by Glen Hewlett
-- [Donkey Kong Emulator](http://users.axess.com/twilight/sock/dk/index.html) and [Remixed](http://users.axess.com/twilight/sock/dkremix/index.html) by John Kowalski (Sock Master)
-- [Gloom-3D Demonstration](http://users.axess.com/twilight/sock/gloom/gloom.html) by John Kowalski (Sock Master)
 - [GunStar - Game Development](http://www.nickmarentes.com/Gunstar/index.html) by Nickolas Marentes
 - [Pac Man Conversion](https://nowhereman999.wordpress.com/2016/12/29/zilog-z80-to-motorola-6809-transcode-part-001/) by Glen Hewlett
 - [PopStar Pilot - Game Development](http://www.nickmarentes.com/PopstarPilot/index.html) by Nickolas Marentes
-- [Sock Master's CoCo Demos](http://users.axess.com/twilight/sock/cocofile/demo.html) by John Kowalski (Sock Master)
 - [The Making of Fahrfall](http://fahrfall.blogspot.com/) by John Linville
