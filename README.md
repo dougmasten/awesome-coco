@@ -68,6 +68,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Installing the GIME-X Video](https://youtu.be/Ba3fBYJXwVE)
 - [Project Page](https://thezippsterzone.com/2019/03/27/gime-x/)
 
+### Decapping Pictures
+
+- ['86 and '87 GIME Chips](https://www.patreon.com/posts/project-256-58792912)
+- [Motorola 6809 CPU](https://seanriddle.com/ef6809edie.html)
+
 ### Sound
 
 #### GMC - Game Master Cartridge (SN76489A Sound Chip)
