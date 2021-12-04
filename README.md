@@ -138,7 +138,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo 3 RGB to SCART to HDMI Cable](https://hackaday.io/project/7366-coco-3-rgb-to-scart-to-hdmi-cable) - by Barry Nelson
 - [CoCo Daiquiri - Replacement board for the SC77527P DAC Chip](https://github.com/qbancoffee/coco_daiquiri)
 - [Development Cartridge](https://github.com/topherCantrell/CoCoC64DevCart)
-- [EPROM Pak](http://www.nf6x.net/2013/10/cocoeprompak/)
+- [EPROM Pak](https://www.nf6x.net/2013/10/cocoeprompak/)
 - [FlashPak](https://github.com/go4retro/FlashPak) - 512kB FLASH ROM Cartridge Unit
 - [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon)
 - [RS-232 WiFi modem using ESP8266](http://subethasoftware.com/2018/02/28/wire-up-your-own-rs-232-wifi-modem-for-under-10-using-esp8266-and-zimodem-firmware/)
