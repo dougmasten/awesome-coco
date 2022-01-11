@@ -175,6 +175,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Joust_CoCo3](https://github.com/nowhereman999/Joust_CoCo3) - Conversion of William's arcade game by Glen Hewlett
 - [Madness and the Minotaur](https://www.computerarcheology.com/CoCo/MadnessMinotaur/) - Disassembly
 - [MegaBug](https://www.computerarcheology.com/CoCo/Megabug/) - Disassembly
+- [Pacman CoCo 3 Transcode](https://colorcomputerarchive.com/repo/Disks/Games/Pacman%20CoCo%203%20Transcode%20%28Glen%20Hewlett%29.zip) - Transcode by Glen Hewlett
 - [Pyramid 2000](https://www.computerarcheology.com/CoCo/Pyramid/) - Disassembly
 - [Raaka Tu](https://www.computerarcheology.com/CoCo/RaakaTu/) - Disassembly
 - [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) - Original source code by Paul Fiscarelli
