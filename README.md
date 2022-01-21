@@ -157,6 +157,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo 3 Easter Egg](http://www.cocopedia.com/wiki/index.php/CoCo3_Easter_Egg)
 - [CoCo Cross Development](https://www.vintageisthenewold.com/coco-cross-development-part-1/) by Allen Huffman
 - [CoCo Loaders](http://lost.l-w.ca/0x05/wp-content/uploads/2010/02/Coco-Loaders.pdf) by William Astle
+- [Color BASIC Program On A Cartridge?](https://retrotinker.blogspot.com/2017/08/color-basic-program-on-cartridge.html) by John Linville
 - [Color Computer Cartridge Dumping](http://tlindner.macmess.org/?page_id=779)
 - [Compile C programs using MacOS or Linux](https://nowhereman999.wordpress.com/2016/11/08/compiling-c-programs-for-the-old-radio-shack-trs-80-color-computer-running-under-rsdos-using-macos-or-linux/) by Glen Hewlett
 - [How to setup and use IRQs](https://nowhereman999.wordpress.com/2017/11/17/how-to-setup-and-use-irqs-on-the-trs-80-color-computer-part-1-what-is-an-irq-and-when-would-i-use-it/) by Glen Hewlett
