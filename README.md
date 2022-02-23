@@ -151,6 +151,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Articles
 
 - [A Great Old-Timey Game-Programming Hack](http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) by Tom Moertel
+- [A Memo on the Secret Features of 6309](https://colorcomputerarchive.com/repo/Documents/Microprocessors/HD6309/Secret%20features%20of%206309.txt)
 - [Arcade Machine Conversion Overview](https://nowhereman999.wordpress.com/2018/01/20/arcade-machine-conversion-to-the-coco-overview/) by Glen Hewlett
 - [Assembly on a modern computer](https://nowhereman999.wordpress.com/2017/06/19/coco-6809-assembly-on-a-modern-computer/) by Glen Hewlett
 - [Building CoCo Games with Inform](https://retrotinker.blogspot.com/2017/11/building-coco-games-with-inform.html) by John Linville
