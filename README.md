@@ -311,7 +311,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Monitor
 
 - [Motorola ASSIST09](https://github.com/jefftranter/6809/tree/master/sbc/assist09)
-- [Percom PSYMON](https://github.com/JNSpears/6809/blob/main/psymon.asm)
+- [Percom PSYMON](https://github.com/JNSpears/6809/tree/main/percom)
 
 ## Project Blogs
 
