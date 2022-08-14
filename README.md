@@ -51,6 +51,9 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Learning the 6809](http://maltedmedia.com/6809/) - by Dennis Bathory Kitsz
 - [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://github.com/ChetSimpson/KAOSTools/blob/master/Reference/6x09_Instruction_Sets.pdf)
 - [Sockmaster's GIME Register Reference](https://www.6809.org.uk/sock/gime.html)
+- [The Comprehensive Document of 6809 Undocumented and Undefined Behavior](https://gitlab.com/dfffffff/6809_undoc/-/blob/main/6809_undocumented_behavior.pdf) - by David Flammand
+- [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) - by David Banks
+- [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) - by David Banks
 
 ### Unravelled Series - Commented source listing of system ROMs
 
