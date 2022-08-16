@@ -310,6 +310,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCoDevelopmentShell](https://github.com/ChetSimpson/CoCoDevelopmentShell) - Chet Simpson's Development Shell
 - [Dynosprite](https://github.com/richard42/dynosprite) - Video game engine
 - [FP09](https://github.com/brouhaha/fp09) - Floating point routines written by Motorola
+- [RSA For Color Computer](https://github.com/barberd/cocorsa) - RSA key generation, encryption and decryption
 
 #### Monitor
 
