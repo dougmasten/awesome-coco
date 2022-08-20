@@ -280,6 +280,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [KAOSTools](https://github.com/ChetSimpson/KAOSTools) - Convert tiled .tmx files and generate 6809 assembly code
 - [Toolshed](https://sourceforge.net/projects/toolshed/) - Cross-development disk images tools [Documentation](http://toolshed.sourceforge.net/ToolShed.html)
 - [cocostress](https://github.com/richard42/cocostress) - CoCo 3 RAM Stress Tester
+- [dasmfw](https://github.com/Arakula/dasmfw) - DisASseMbler FrameWork
 - [dmk2sdf](https://goo.gl/q61D6s) - Command line tool to convert DMK images to SDF format. Includes source code.
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
 - [os9-dev](https://github.com/hpmachining/os9-dev) - Arch Linux package builds for cross developing
