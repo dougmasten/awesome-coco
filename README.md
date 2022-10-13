@@ -188,6 +188,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Raaka Tu](https://www.computerarcheology.com/CoCo/RaakaTu/) - Disassembly
 - [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) - Original source code by Paul Fiscarelli
 - [Shanghai](https://github.com/yggdrasilradio/shanghai) - Original source code by Rick Adams
+- [Space Bandits](https://github.com/jamieleecho/space-bandits) - CoCo 3 and macOS video game by Jamie Cho
 - [Star Spores](https://github.com/dshadoff/Star-Spores_CoCo) - Original source code by Dave Shadoff
 - [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) - Author Rick Adams release (Disassembly by William Astle)
 - [Timberman](https://www.facebook.com/download/254099108593952/tim4_rev_10.asm?hash=AcqjkVkltRC9gaa5) - Original source code by Paul Thayer
