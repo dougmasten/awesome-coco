@@ -143,6 +143,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb)
 - [CoCo 3 RGB to SCART to HDMI Cable](https://hackaday.io/project/7366-coco-3-rgb-to-scart-to-hdmi-cable) - by Barry Nelson
 - [CoCo Daiquiri - Replacement board for the SC77527P DAC Chip](https://github.com/qbancoffee/coco_daiquiri)
+- [CoCo Joystick to USB adapter](https://github.com/wyndec/CoCoJoy2USB)
 - [Development Cartridge](https://github.com/topherCantrell/CoCoC64DevCart)
 - [EPROM Pak](https://www.nf6x.net/2013/10/cocoeprompak/)
 - [FlashPak](https://github.com/go4retro/FlashPak) - 512kB FLASH ROM Cartridge Unit
