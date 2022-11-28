@@ -211,6 +211,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Programming in BASIC Series](https://www.youtube.com/watch?v=bidwWkEkuSI&list=PLpy5fe6Zd8ccUvxkGHgvLGo70jScz-7wT) - presented by Steve Strow
 - [Setting up Assembly Development Environment](https://youtu.be/_HlUVvypbi4) - presented by Paul Fiscarelli
 - [Video Game Development](https://youtu.be/6wCLunU_dno) - presented by John Strong
+- [University of Florida Turbo9 project](https://www.youtube.com/channel/UChAQFtsvy_xv--6iWMmtY0g) - presented by Kevin Phillipson and Michael Rywalt
 
 ## Protocols
 
