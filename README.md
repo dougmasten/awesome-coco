@@ -43,7 +43,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ## Documentation
 
 - [CoCo 3 Color Palette](https://exstructus.com/tags/coco/australia-colour-palette/)
-- [CoCo 3 Hardware Programming](https://github.com/ChetSimpson/KAOSTools/blob/master/Reference/Lomont_CoCoHardware.pdf)
+- [CoCo 3 Hardware Programming](https://www.lomont.org/software/misc/coco/Lomont_CoCoHardware.pdf)
 - [CoCo 3 Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
 - [CoCo 3 Service Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
 - [CoCo, GIME and GIME-X Memory Map Reference](https://www.macmess.org/downloads/CoCo%20Hardware%20Reference.pdf) by Tim Lindner
