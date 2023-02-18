@@ -138,6 +138,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### 3D Printer Models
 - [Program Pak Case](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
 - [SDC Case](https://www.thingiverse.com/thing:1592139)
+- [SDC FD-501 Style Case](https://www.thingiverse.com/thing:4880775)
 
 ### Hardware Designs
 - [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb)
