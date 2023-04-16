@@ -214,6 +214,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Setting up Assembly Development Environment](https://youtu.be/_HlUVvypbi4) - presented by Paul Fiscarelli
 - [University of Florida Turbo9 project](https://www.youtube.com/channel/UChAQFtsvy_xv--6iWMmtY0g) - presented by Kevin Phillipson and Michael Rywalt
 - [Video Game Development](https://youtu.be/6wCLunU_dno) - presented by John Strong
+- [The CoCo Collector](https://www.youtube.com/@thecococollector4940)
 
 ## Protocols
 
@@ -226,6 +227,9 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Getting Started with DriveWire](https://www.cocopedia.com/wiki/index.php/Getting_Started_with_DriveWire)
 - [Video Guide to PyDriveWire, DWterm and Telnet BBS](https://www.youtube.com/watch?v=coAa2qeFJoE)
 - [pyDriveWire](https://github.com/n6il/pyDriveWire) - Python implementation of DriveWire 4
+- [DriveWire 3 Server for Mac](https://github.com/boisy/drivewire-mac)
+- [DriveWire 3 Server for Windows](https://github.com/boisy/drivewire-win)
+- [DriveWire 3 Server for Linux](https://github.com/boisy/drivewire-unix)
 
 ## Software Development
 
