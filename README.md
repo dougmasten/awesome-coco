@@ -146,6 +146,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
 - [CoCo Daiquiri - Replacement board for the SC77527P DAC Chip](https://github.com/qbancoffee/coco_daiquiri)
 - [CoCo Joystick to USB adapter](https://github.com/wyndec/CoCoJoy2USB)
+- [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards)
 - [Development Cartridge](https://github.com/topherCantrell/CoCoC64DevCart)
 - [EPROM Pak](https://www.nf6x.net/2013/10/cocoeprompak/)
 - [FlashPak](https://github.com/go4retro/FlashPak) - 512kB FLASH ROM Cartridge Unit
