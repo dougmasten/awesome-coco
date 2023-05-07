@@ -110,7 +110,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [Cloud-9 Triad 512K SRAM board](http://www.cloud9tech.com/)
 
-
 ### MPI - Multipak Interface
 
 - [Tandy Multi-Pak Interface Owners Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Owners%20Manual%20%28Tandy%29.pdf)
@@ -174,6 +173,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [How to setup and use IRQs](https://nowhereman999.wordpress.com/2017/11/17/how-to-setup-and-use-irqs-on-the-trs-80-color-computer-part-1-what-is-an-irq-and-when-would-i-use-it/) by Glen Hewlett
 - [Make PMODE 4 CSM Video Files](https://nowhereman999.wordpress.com/2017/07/31/how-to-make-pmode-4-csm-video-files-for-the-coco-trs-80-color-computer/) by Glen Hewlett
 - [Optimizing 6809 Assembly Code](https://nowhereman999.wordpress.com/2017/09/14/optimizing-6809-assembly-code-part-1-quick-and-easy-changes-to-speedup-your-code/) by Glen Hewlett
+
 
 ### Source Code
 
@@ -293,8 +293,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [dasmfw](https://github.com/Arakula/dasmfw) - DisASseMbler FrameWork
 - [dmk2sdf](https://goo.gl/q61D6s) - Command line tool to convert DMK images to SDF format. Includes source code.
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
-- [os9-dev](https://github.com/hpmachining/os9-dev) - Arch Linux package builds for cross developing
 - [m6809-dev](https://github.com/stahta01/m6809-dev) - MSys2 mingw package builds for cross developing
+- [os9-dev](https://github.com/hpmachining/os9-dev) - Arch Linux package builds for cross developing
 - [sgeditreborn](https://github.com/daftspaniel/sgeditreborn) - Web based low-res screen designer
 
 ### Libraries
