@@ -166,6 +166,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Byte Magazine 6809 Articles](http://tlindner.macmess.org/wp-content/uploads/2006/09/Byte_6809_Articles.pdf)
 - [CoCo 3 Easter Egg](http://www.cocopedia.com/wiki/index.php/CoCo3_Easter_Egg)
 - [CoCo Cross Development](https://www.vintageisthenewold.com/coco-cross-development-part-1/) by Allen Huffman
+- [CoCo Disk BASIC disk structure](https://subethasoftware.com/2023/04/25/coco-disk-basic-disk-structure-part-1/) - by Allen Huffman
 - [CoCo Loaders](http://lost.l-w.ca/0x05/wp-content/uploads/2010/02/Coco-Loaders.pdf) by William Astle
 - [Color BASIC Program On A Cartridge?](https://retrotinker.blogspot.com/2017/08/color-basic-program-on-cartridge.html) by John Linville
 - [Color Computer Cartridge Dumping](http://tlindner.macmess.org/?page_id=779)
