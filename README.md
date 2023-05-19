@@ -171,9 +171,9 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Color Computer Cartridge Dumping](http://tlindner.macmess.org/?page_id=779)
 - [Compile C programs using MacOS or Linux](https://nowhereman999.wordpress.com/2016/11/08/compiling-c-programs-for-the-old-radio-shack-trs-80-color-computer-running-under-rsdos-using-macos-or-linux/) by Glen Hewlett
 - [How to setup and use IRQs](https://nowhereman999.wordpress.com/2017/11/17/how-to-setup-and-use-irqs-on-the-trs-80-color-computer-part-1-what-is-an-irq-and-when-would-i-use-it/) by Glen Hewlett
+- [Interfacing assembly with BASIC via DEFUSR](https://subethasoftware.com/2017/02/05/interfacing-assembly-with-basic-via-defusr-part-1/)
 - [Make PMODE 4 CSM Video Files](https://nowhereman999.wordpress.com/2017/07/31/how-to-make-pmode-4-csm-video-files-for-the-coco-trs-80-color-computer/) by Glen Hewlett
 - [Optimizing 6809 Assembly Code](https://nowhereman999.wordpress.com/2017/09/14/optimizing-6809-assembly-code-part-1-quick-and-easy-changes-to-speedup-your-code/) by Glen Hewlett
-
 
 ### Source Code
 
