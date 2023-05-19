@@ -183,6 +183,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Delphiterm](https://github.com/yggdrasilradio/delphiterm) - Original source code by Rick Adams
 - [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) - Original source code
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
+- [Ghidorah](https://github.com/boisy/ghidorah) - Message protocol using custom RS-232 cables
 - [Infocom Adventure Games Interpreter](http://www.colorcomputerarchive.com/coco/Programming/Source/Infocom%20Adventure%20Games%20Interpreter/Infocom%20Adventure%20Games%20Interpreter%20Source%20Code%20%28Infocom%29.zip) - Original source code
 - [Joust_CoCo3](https://github.com/nowhereman999/Joust_CoCo3) - Conversion of William's arcade game by Glen Hewlett
 - [Madness and the Minotaur](https://www.computerarcheology.com/CoCo/MadnessMinotaur/) - Disassembly
