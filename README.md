@@ -129,7 +129,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Documentation](https://goo.gl/bZ9ebS)
 - [Media Player using streaming protocol](https://thezippsterzone.com/2018/05/14/coco-sdc-media-player/)
 - [Project Files](http://bit.ly/drive-sdcproject)
-- [Quick Reference](https://sites.google.com/site/cocosdquick/)
 - [WiFi SD Card Development Environment Video](https://www.youtube.com/watch?v=rq7rR9lzi38)
 
 ## Maker Community
