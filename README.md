@@ -49,7 +49,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo, GIME and GIME-X Memory Map Reference](https://www.macmess.org/downloads/CoCo%20Hardware%20Reference.pdf) by Tim Lindner
 - [Color Computer PIAs](http://tlindner.macmess.org/wp-content/uploads/2006/09/cocopias-R3.pdf)
 - [Learning the 6809](http://maltedmedia.com/6809/) - by Dennis Bathory Kitsz
-- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://colorcomputerarchive.com/repo/Documents/Books/Motorola%206809%20and%20Hitachi%206309%20Programming%20Reference%20(Darren%20Atkinson).pdf)
+- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://colorcomputerarchive.com/repo/Documents/Books/Motorola%206809%20and%20Hitachi%206309%20Programming%20Reference%20(Darren%20Atkinson).pdf) - by Darren Atkinson
 - [Sockmaster's GIME Register Reference](https://www.6809.org.uk/sock/gime.html)
 - [The Comprehensive Document of 6809 Undocumented and Undefined Behavior](https://gitlab.com/dfffffff/6809_undoc/-/blob/main/6809_undocumented_behavior.pdf) - by David Flammand
 - [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) - by David Banks
