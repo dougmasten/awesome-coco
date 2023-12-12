@@ -27,7 +27,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
   * [Emulators](#emulators)
   * [Libraries](#libraries)
   * [Tools](#tools)
-- [YouTube Channels](#youtube)
+- [YouTube Channels](#youtube-channels)
 
 ## Community
 
