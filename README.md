@@ -27,6 +27,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
   * [Emulators](#emulators)
   * [Libraries](#libraries)
   * [Tools](#tools)
+- [YouTube Channels](#youtube)
 
 ## Community
 
@@ -353,3 +354,18 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [PopStar Pilot - Game Development](http://www.nickmarentes.com/PopstarPilot/index.html) by Nickolas Marentes
 - [Sock Master's CoCo Demos](http://www.6809.org.uk/twilight/sock/cocofile/demo.html) by John Kowalski (Sock Master)
 - [The Making of Fahrfall](http://fahrfall.blogspot.com/) by John Linville
+
+## YouTube Channels
+
+- [Canadian Retro Things](https://www.youtube.com/@CanadianRetroThings)
+- [Dave's Hobbies](https://www.youtube.com/@daves_hobbies)
+- [I'm a CoCo Nut](https://www.youtube.com/@ImaCoCoNut)
+- [Long Branch Never](https://www.youtube.com/@longbranchnever9936)
+- [MrDave6309](https://www.youtube.com/@MrDave6309)
+- [My Drunk Sibling](https://www.youtube.com/@mydrunksibling)
+- [Paul Thayer](https://www.youtube.com/@paulthayer4915)
+- [The CoCo Collector](https://www.youtube.com/@thecococollector4940)
+- [The CoCo Nation](https://www.youtube.com/@The_CoCo_Nation)
+- [The Taylor and Amy Show](https://www.youtube.com/@TaylorAmyShow)
+- [ogStevieStrow](https://www.youtube.com/@Ogsteviestrow/)
+- [tim linder](https://www.youtube.com/@lindnertim/)
