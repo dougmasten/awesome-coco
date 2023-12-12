@@ -231,12 +231,12 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### DriveWire
 
-- [DriveWire's Official Home](https://github.com/boisy/drivewire)
-- [DriveWire's Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification)
 - [DriveWire 3 Server for Linux](https://github.com/boisy/drivewire-unix)
 - [DriveWire 3 Server for Mac](https://github.com/boisy/drivewire-mac)
 - [DriveWire 3 Server for Windows](https://github.com/boisy/drivewire-win)
 - [DriveWire 4 Installation Guide](https://www.cocopedia.com/wiki/index.php/DW4_Installation_Guide)
+- [DriveWire Official Home](https://github.com/boisy/drivewire)
+- [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification)
 - [DriveWirelessly Board](https://www.youtube.com/watch?v=6Xsnwb6YQuI) - Video on install, configure and setup
 - [Getting Started with DriveWire](https://www.cocopedia.com/wiki/index.php/Getting_Started_with_DriveWire)
 - [Video Guide to PyDriveWire, DWterm and Telnet BBS](https://www.youtube.com/watch?v=coAa2qeFJoE)
