@@ -314,7 +314,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [CRC-16-CCITT](http://www.6809.org.uk/dragon/asm/crc16.s) - by Ciaran Anscomb
 - [CRC32-6x09](https://github.com/dougmasten/crc32-6x09) - CRC-32 Library for H6309
-- [TLSF Memory Allocator](https://github.com/bhrousseau/6809-tlsf)
+
 
 #### Compression
 
@@ -336,6 +336,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [FP09](https://github.com/brouhaha/fp09) - Floating point routines written by Motorola
 - [KAOS Toolkit](https://github.com/ChetSimpson/KAOSToolkit) - Toolkit for multimedia files in retro game development, by Chet Simpson
 - [RSA For Color Computer](https://github.com/barberd/cocorsa) - RSA key generation, encryption and decryption
+- [TLSF Memory Allocator](https://github.com/bhrousseau/6809-tlsf)
 
 #### Monitor
 
