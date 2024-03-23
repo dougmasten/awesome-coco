@@ -350,9 +350,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Defender Conversion](https://nowhereman999.wordpress.com/2017/12/31/defender-conversion-for-the-coco-3-part-1/) by Glen Hewlett
 - [Donkey Kong Emulator](http://www.6809.org.uk/twilight/sock/dk/index.html) and [Remixed](http://www.6809.org.uk/twilight/sock/dkremix/index.html) by John Kowalski (Sock Master)
 - [Gloom-3D Demonstration](http://www.6809.org.uk/twilight/sock/gloom/gloom.html) by John Kowalski (Sock Master)
-- [GunStar - Game Development](http://www.nickmarentes.com/Gunstar/index.html) by Nickolas Marentes
 - [Pac Man Conversion](https://nowhereman999.wordpress.com/2016/12/29/zilog-z80-to-motorola-6809-transcode-part-001/) by Glen Hewlett
-- [PopStar Pilot - Game Development](http://www.nickmarentes.com/PopstarPilot/index.html) by Nickolas Marentes
 - [Sock Master's CoCo Demos](http://www.6809.org.uk/twilight/sock/cocofile/demo.html) by John Kowalski (Sock Master)
 - [The Making of Fahrfall](http://fahrfall.blogspot.com/) by John Linville
 
