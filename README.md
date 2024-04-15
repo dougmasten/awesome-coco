@@ -173,6 +173,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [How to setup and use IRQs](https://nowhereman999.wordpress.com/2017/11/17/how-to-setup-and-use-irqs-on-the-trs-80-color-computer-part-1-what-is-an-irq-and-when-would-i-use-it/) by Glen Hewlett
 - [Interfacing assembly with BASIC via DEFUSR](https://subethasoftware.com/2017/02/05/interfacing-assembly-with-basic-via-defusr-part-1/)
 - [Make PMODE 4 CSM Video Files](https://nowhereman999.wordpress.com/2017/07/31/how-to-make-pmode-4-csm-video-files-for-the-coco-trs-80-color-computer/) by Glen Hewlett
+- [Motorola's 6809: The Best 8-bit?](https://thechipletter.substack.com/p/motorolas-6809-the-best-8-bit)
 - [Optimizing 6809 Assembly Code](https://nowhereman999.wordpress.com/2017/09/14/optimizing-6809-assembly-code-part-1-quick-and-easy-changes-to-speedup-your-code/) by Glen Hewlett
 - [Translation of Article on the 63C09 in Oh!FM 1998-4: p.72](https://defining-computers.blogspot.com/2022/05/translation-of-article-on-63c09-in-oh-fm-1988-4-72.html.html)
 
