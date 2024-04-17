@@ -144,6 +144,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo Daiquiri - Replacement board for the SC77527P DAC Chip](https://github.com/qbancoffee/coco_daiquiri)
 - [CoCo Joystick to USB adapter](https://github.com/wyndec/CoCoJoy2USB)
 - [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards)
+- [CoCo-FujiNet](https://github.com/djtersteegc/Coco-FujiNet) - Multi-peripheral emulator and WiFi network device
 - [Development Cartridge](https://github.com/topherCantrell/CoCoC64DevCart)
 - [Digital to Analog Joystick Circuit](https://github.com/GadgetReboot/D_A_CoCo_Joystick_Adapter)
 - [EPROM Pak](https://www.nf6x.net/2013/10/cocoeprompak/)
@@ -151,7 +152,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Hardware Keyboard Encoder](https://github.com/wyndec/CoCoKeys2USB)
 - [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon)
 - [RS-232 WiFi modem using ESP8266](http://subethasoftware.com/2018/02/28/wire-up-your-own-rs-232-wifi-modem-for-under-10-using-esp8266-and-zimodem-firmware/)
-
 
 ## Programming
 
@@ -212,7 +212,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Sinistar](https://github.com/historicalsource/sinistar) - M6809 arcade game
 - [Star-Wars](https://github.com/historicalsource/star-wars) - M6809 arcade game
 - [Stargate](https://github.com/historicalsource/stargate) - M6809 arcade game
-
 
 ### Videos
 
@@ -314,7 +313,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 - [CRC-16-CCITT](http://www.6809.org.uk/dragon/asm/crc16.s) - by Ciaran Anscomb
 - [CRC32-6x09](https://github.com/dougmasten/crc32-6x09) - CRC-32 Library for H6309
-
 
 #### Compression
 
