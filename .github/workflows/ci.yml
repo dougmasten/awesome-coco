@@ -26,5 +26,5 @@ jobs:
         run: gem install awesome_bot
       
       - name: Run Awesome-bot
-        run: awesome_bot README.md --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,pairlist5.pair.net,colorcomputerarchive.com,cosmicaliens.com,patreon.com,atom.io,gamedev.net
+        run: awesome_bot README.md --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,pairlist5.pair.net,colorcomputerarchive.com,cosmicaliens.com,patreon.com,atom.io,gamedev.net,thechipletter.substack.com
 
