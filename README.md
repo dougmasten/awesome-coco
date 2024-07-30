@@ -44,12 +44,12 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ## Documentation
 
 - [CoCo 3 Hardware Programming](https://www.lomont.org/software/misc/coco/Lomont_CoCoHardware.pdf)
-- [CoCo 3 Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
-- [CoCo 3 Service Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
+- [CoCo 3 Schematic](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
+- [CoCo 3 Service Manual](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
 - [CoCo, GIME and GIME-X Memory Map Reference](https://www.macmess.org/downloads/CoCo%20Hardware%20Reference.pdf) by Tim Lindner
 - [Color Computer PIAs](http://tlindner.macmess.org/wp-content/uploads/2006/09/cocopias-R3.pdf)
 - [Learning the 6809](http://maltedmedia.com/6809/) - by Dennis Bathory Kitsz
-- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://colorcomputerarchive.com/repo/Documents/Books/Motorola%206809%20and%20Hitachi%206309%20Programming%20Reference%20(Darren%20Atkinson).pdf) - by Darren Atkinson
+- [Motorola 6809 and Hitachi 6309 Programmer's Reference](https://colorcomputerarchive.com/repo/Documents/Books/Motorola%206809%20and%20Hitachi%206309%20Programming%20Reference%20%28Darren%20Atkinson%29.pdf) - by Darren Atkinson
 - [Sockmaster's GIME Register Reference](https://www.6809.org.uk/sock/gime.html)
 - [The Comprehensive Document of 6809 Undocumented and Undefined Behavior](https://gitlab.com/dfffffff/6809_undoc/-/blob/main/6809_undocumented_behavior.pdf) - by David Flammand
 - [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) - by David Banks
@@ -57,10 +57,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Unravelled Series - Commented source listing of system ROMs
 
-- [Color Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/color-basic-unravelled.pdf)
-- [Disk Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/disk-basic-unravelled.pdf)
-- [Extended Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/extended-basic-unravelled.pdf)
-- [Super Extended Basic](http://www.colorcomputerarchive.com/coco/Documents/Books/Unravelled%20Series/super-extended-basic-unravelled.pdf)
+- [Color Basic](https://colorcomputerarchive.com/repo/Documents/Books/Unravelled%20Series/color-basic-unravelled.pdf)
+- [Disk Basic](https://colorcomputerarchive.com/repo/Documents/Books/Unravelled%20Series/disk-basic-unravelled.pdf)
+- [Extended Basic](https://colorcomputerarchive.com/repo/Documents/Books/Unravelled%20Series/extended-basic-unravelled.pdf)
+- [Super Extended Basic](https://colorcomputerarchive.com/repo/Documents/Books/Unravelled%20Series/super-extended-basic-unravelled.pdf)
 
 ## Hardware
 
@@ -111,8 +111,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### MPI - Multipak Interface
 
-- [Tandy Multi-Pak Interface Owners Manual](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Owners%20Manual%20%28Tandy%29.pdf)
-- [Tandy Multi-Pak Interface Schematic](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Schematic%20%28Tandy%29.pdf)
+- [Tandy Multi-Pak Interface Owners Manual](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Owners%20Manual%20%28Tandy%29.pdf)
+- [Tandy Multi-Pak Interface Schematic](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Multi-Pak%20Interface%20Schematic%20%28Tandy%29.pdf)
 - [Zippster MEGA-mini MPI (4-slots)](https://thezippsterzone.com/2018/05/09/mega-mini-mpi/)
 - [Zippster mini-MPI (2-slots)](https://thezippsterzone.com/2018/05/07/mini-mpi/)
 
@@ -187,12 +187,12 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) - Original source code
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
 - [Ghidorah](https://github.com/boisy/ghidorah) - Message protocol using custom RS-232 cables
-- [Infocom Adventure Games Interpreter](http://www.colorcomputerarchive.com/coco/Programming/Source/Infocom%20Adventure%20Games%20Interpreter/Infocom%20Adventure%20Games%20Interpreter%20Source%20Code%20%28Infocom%29.zip) - Original source code
+- [Infocom Adventure Games Interpreter](https://colorcomputerarchive.com/repo/Programming/Source/Infocom%20Adventure%20Games%20Interpreter/Infocom%20Adventure%20Games%20Interpreter%20Source%20Code%20%28Infocom%29.zip) - Original source code
 - [Joust_CoCo3](https://github.com/nowhereman999/Joust_CoCo3) - Conversion of William's arcade game by Glen Hewlett
 - [Madness and the Minotaur](https://www.computerarcheology.com/CoCo/MadnessMinotaur/) - Disassembly
 - [MegaBug](https://www.computerarcheology.com/CoCo/Megabug/) - Disassembly
 - [NitrOS-9](https://github.com/nitros9project/nitros9) - Community-based distribution of Microware OS-9 operating system
-- [Pacman CoCo 3 Transcode](https://colorcomputerarchive.com/repo/Disks/Games/Pacman%20CoCo%203%20Transcode%20(Glen%20Hewlett)%20(Coco%203).zip) - Transcode by Glen Hewlett
+- [Pacman CoCo 3 Transcode](https://colorcomputerarchive.com/repo/Disks/Games/Pacman%20CoCo%203%20Transcode%20%28Glen%20Hewlett%29%20%28Coco%203%29.zip) - Transcode by Glen Hewlett
 - [Pyramid 2000](https://www.computerarcheology.com/CoCo/Pyramid/) - Disassembly
 - [Raaka Tu](https://www.computerarcheology.com/CoCo/RaakaTu/) - Disassembly
 - [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) - Original source code by Paul Fiscarelli
