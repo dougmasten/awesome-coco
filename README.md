@@ -356,6 +356,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ## YouTube Channels
 
 - [Canadian Retro Things](https://www.youtube.com/@CanadianRetroThings)
+- [Coco Town](https://www.youtube.com/@CocoTownRetro)
 - [Dave's Hobbies](https://www.youtube.com/@daves_hobbies)
 - [I'm a CoCo Nut](https://www.youtube.com/@ImaCoCoNut)
 - [Long Branch Never](https://www.youtube.com/@longbranchnever9936)
