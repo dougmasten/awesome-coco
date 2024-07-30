@@ -263,7 +263,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Assembly
 
-- [Atom](https://atom.io/packages/language-6809)
 - [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
 - [Notepad++](https://gist.github.com/pfiscarelli/4013e3fd743c41ffa788328fbbb4bfd9)
 - [Sublime Text](https://packagecontrol.io/packages/Assembly%206809%20and%206309%20Syntax%20Highlighting)
