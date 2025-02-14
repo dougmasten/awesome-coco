@@ -369,4 +369,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [The CoCo Nation](https://www.youtube.com/@The_CoCo_Nation)
 - [The Taylor and Amy Show](https://www.youtube.com/@TaylorAmyShow)
 - [ogStevieStrow](https://www.youtube.com/@Ogsteviestrow/)
-- [tim linder](https://www.youtube.com/@lindnertim/)
+- [tim lindner](https://www.youtube.com/@lindnertim/)
