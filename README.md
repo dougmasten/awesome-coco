@@ -34,6 +34,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo Contacts Map](https://www.google.com/maps/d/u/0/viewer?mid=1NsilYgpxOXvME-6WOMhYmDp0L-M&ll=37.774709158081365%2C-95.66578829504033&z=5&fbclid=IwAR0GTOVPBNuD4thwFX-mTiGO8JoJPu-wBnf73cySXFkuI30ck5M8qeMgNFw)
 - [CoCo Discord Server](https://discordapp.com/invite/4J5nHXm)
 - [CoCo Facebook Group](https://www.facebook.com/groups/2359462640/)
+- [CoCo Game List](https://www.lcurtisboyle.com/nitros9/coco_game_list.html)
 - [CoCo Matrix Group](https://app.element.io/#/group/+retrobytes:matrix.org)
 - [CoCoFEST! conference](https://glensideccc.com/)
 - [CoCoList mailing list](https://pairlist5.pair.net/mailman/listinfo/coco)
