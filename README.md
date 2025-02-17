@@ -37,6 +37,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo Matrix Group](https://app.element.io/#/group/+retrobytes:matrix.org)
 - [CoCoFEST! conference](https://glensideccc.com/)
 - [CoCoList mailing list](https://pairlist5.pair.net/mailman/listinfo/coco)
+- [CoCopedia - Wiki](https://www.cocopedia.com/wiki/index.php/Main_Page)
 - [Tandy Assembly conference](http://www.tandyassembly.com/)
 - [The CoCo Crew Podcast](http://www.cococrew.org)
 - [The CoCo Nation Show](https://thecoconation.com)
