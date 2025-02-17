@@ -184,6 +184,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
 - [Defender_CoCo3](https://github.com/nowhereman999/Defender_CoCo3) - Conversion of William's arcade game by Glen Hewlett
 - [Delphiterm](https://github.com/yggdrasilradio/delphiterm) - Original source code by Rick Adams
+- [Downland](https://github.com/pw32x/Downland_RE) - Downland V1.1 disassembly
 - [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) - Original source code
 - [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
 - [Ghidorah](https://github.com/boisy/ghidorah) - Message protocol using custom RS-232 cables
@@ -302,6 +303,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [dasmfw](https://github.com/Arakula/dasmfw) - DisASseMbler FrameWork
 - [dmk2sdf](https://goo.gl/q61D6s) - Command line tool to convert DMK images to SDF format. Includes source code.
 - [f9dasm](https://github.com/Arakula/f9dasm) - Disassembler
+- [m6809 tools](https://launchpad.net/~tormodvolden/+archive/ubuntu/m6809) - Motorola 6809 dev tools for Ubuntu
 - [m6809-dev](https://github.com/stahta01/m6809-dev) - MSys2 mingw package builds for cross developing
 - [os9-dev](https://github.com/hpmachining/os9-dev) - Arch Linux package builds for cross developing
 - [sgeditreborn](https://github.com/daftspaniel/sgeditreborn) - Web based low-res screen designer
@@ -367,4 +369,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [The CoCo Nation](https://www.youtube.com/@The_CoCo_Nation)
 - [The Taylor and Amy Show](https://www.youtube.com/@TaylorAmyShow)
 - [ogStevieStrow](https://www.youtube.com/@Ogsteviestrow/)
-- [tim linder](https://www.youtube.com/@lindnertim/)
+- [tim lindner](https://www.youtube.com/@lindnertim/)
