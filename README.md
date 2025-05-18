@@ -349,7 +349,6 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Project Blogs
 
-- [Cosmic Aliens Development](http://cosmicaliens.com/development-blog/) by Steve Strowbridge
 - [Defender Conversion](https://nowhereman999.wordpress.com/2017/12/31/defender-conversion-for-the-coco-3-part-1/) by Glen Hewlett
 - [Donkey Kong Emulator](http://www.6809.org.uk/twilight/sock/dk/index.html) and [Remixed](http://www.6809.org.uk/twilight/sock/dkremix/index.html) by John Kowalski (Sock Master)
 - [Gloom-3D Demonstration](http://www.6809.org.uk/twilight/sock/gloom/gloom.html) by John Kowalski (Sock Master)
