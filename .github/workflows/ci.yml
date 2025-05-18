@@ -21,10 +21,10 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
-    
-      - name: Install Awesome-bot 
+
+      - name: Install Awesome-bot
         run: gem install awesome_bot
-      
+
       - name: Run Awesome-bot
-        run: awesome_bot README.md --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,pairlist5.pair.net,colorcomputerarchive.com,cosmicaliens.com,patreon.com,gamedev.net,thechipletter.substack.com
+        run: awesome_bot README.md --allow 403,429 --allow-dupe --allow-redirect -w cloud9tech.com,nf6x.net,pairlist5.pair.net,colorcomputerarchive.com,cosmicaliens.com,patreon.com,gamedev.net,thechipletter.substack.com
 
