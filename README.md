@@ -300,7 +300,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Tools
 
 - [File2DSK](http://www.chipple.net/coco/file2dsk/) - Command line utility to copy BAS/BIN files to a DSK virtual disk
-- [Toolshed](https://sourceforge.net/projects/toolshed/) - Cross-development disk images tools [Documentation](http://toolshed.sourceforge.net/ToolShed.html)
+- [Toolshed](https://github.com/nitros9project/toolshed) - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki)
 - [cocostress](https://github.com/richard42/cocostress) - CoCo 3 RAM Stress Tester
 - [dasmfw](https://github.com/Arakula/dasmfw) - DisASseMbler FrameWork
 - [dmk2sdf](https://goo.gl/q61D6s) - Command line tool to convert DMK images to SDF format. Includes source code.
