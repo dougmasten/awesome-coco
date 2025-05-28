@@ -139,6 +139,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ## Maker Community
 
 ### 3D Printer Models
+- [Mega Mini MPI Extender Support](https://www.thingiverse.com/thing:6786612)
 - [Program Pak Case](https://gitlab.com/NF6X_Retrocomputing/CoCoProgramPakCases)
 - [SDC Case](https://www.thingiverse.com/thing:1592139)
 - [SDC FD-501 Style Case](https://www.thingiverse.com/thing:4880775)
