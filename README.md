@@ -66,13 +66,17 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Hardware
 
-### GIME-X - FPGA replacement of GIME ASIC w/ feature enhancements
+### GIME-X (The Zippster Zone) - FPGA replacement of GIME IC w/ feature enhancements
 
 - [GIME-X Installation and User Guide](https://drive.google.com/file/d/1Ig3bDV8Scv9jB1mQwxSIoqn8Bqp-kFPZ/edit)
 - [GIME-X Main Board Overview Video](https://youtu.be/Q8rA0fkvKeU)
 - [GIME-X Speed Test 2.86 MHz Video](https://www.youtube.com/watch?v=F8Tks28CqrI)
 - [Installing the GIME-X Video](https://youtu.be/Ba3fBYJXwVE)
 - [Project Page](https://thezippsterzone.com/2019/03/27/gime-x/)
+
+### GIME-Z (AC's 8-bit Zone) - FPGA replacement of GIME IC w/ feature enhancements
+
+- [GIME-Z Installation Video](https://youtu.be/zxkgcXt59kU)
 
 ### Decapping Pictures
 
